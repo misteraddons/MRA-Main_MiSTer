@@ -3,7 +3,7 @@
 	<region></region>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<version>v6-15</version>
+	<version>Ver 5-12</version>
 	<alternative>Tron</alternative>
 	<platform>Midway MCR</platform>
 	<series>Tron</series>
@@ -12,7 +12,7 @@
 	<manufacturer>Midway</manufacturer>
 	<category>Arena</category>
 
-	<setname>tron4</setname>
+	<setname>tron5</setname>
 	<parent>tron</parent>
 	<mameversion>0218</mameversion>
 	<rbf>mcr2</rbf>
@@ -38,13 +38,13 @@
 	<rom index="1">
 		<part>1</part>
 		</rom>
-	<rom index="0" md5="1c0622a10fd8e442a1dfbc8f6fd163a9" zip="tron.zip|tron4.zip">
-		<part crc="09d7a95a" name="pga-615.d2"></part>
-		<part crc="b454337d" name="pgb-615.d3"></part>
-		<part crc="ac1836ff" name="pgc-615.d4"></part>
-		<part crc="1a7bec6d" name="pgd-615.d5"></part>
-		<part crc="ea198fa8" name="pge-615.d6"></part>
-		<part crc="790ee743" name="pgf-615.d7"></part>
+	<rom index="0" md5="3cd18088036b57e14af0b9f8b867b7bf" zip="tron.zip|tron5.zip">
+		<part crc="ccc4119f" name="tron_pro-0_5-12.d2"></part>
+		<part crc="153f148c" name="tron_pro-1_5-12.d3"></part>
+		<part crc="e62bb8a1" name="tron_pro-2_5-12.d4"></part>
+		<part crc="dbc06c91" name="tron_pro-3_5-12.d5"></part>
+		<part crc="30adb624" name="tron_pro-4_5-12.d6"></part>
+		<part crc="191c72bb" name="tron_pro-5_5-12.d7"></part>
 		<part crc="2cbb332b" name="ssi_oa.a7"></part>
 		<part crc="1355b7e6" name="ssi_ob.a8"></part>
 		<part crc="6dd4b7c9" name="ssi_oc.a9"></part>

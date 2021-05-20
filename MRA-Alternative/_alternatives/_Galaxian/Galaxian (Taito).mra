@@ -1,9 +1,9 @@
 <misterromdescription>
 	<name>Galaxian</name>
 	<region></region>
-	<homebrew>yes</homebrew>
+	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
-	<version></version>
+	<version>Taito</version>
 	<alternative>Galaxian</alternative>
 	<platform></platform>
 	<series>Galaxian</series>
