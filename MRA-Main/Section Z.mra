@@ -1,0 +1,93 @@
+<misterromdescription>
+	<name>Section Z</name>
+	<region></region>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<version></version>
+	<alternative></alternative>
+	<platform></platform>
+	<series></series>
+	<year>1985</year>
+	<manufacturer>Capcom</manufacturer>
+	<category>Shooter - Horizontal</category>
+
+	<setname>sectionz</setname>
+	<parent>sectionz</parent>
+	<mameversion>0217</mameversion>
+	<rbf>jtsectionz</rbf>
+	<about author="jotego" source="https://github.com/jotego" twitter="@topapate" webpage="https://patreon.com/topapate"></about>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>2</buttons>
+	<buttons default="A,B,R,L,Start" names="Fire,Turn around,Start,Coin,Pause"></buttons>
+
+	<switches base="0x10" default="FF,FE" page_id="1" page_name="Switches">
+		<!-- A -->
+		<dip bits="0" ids="On,Off" name="Service Mode"></dip>
+		<dip bits="1" ids="On,Off" name="Flip Screen"></dip>
+		<dip bits="2,3" ids="5,2,4,3" name="Lives"></dip>
+		<dip bits="4,5" ids="4/1,2/1,3/1,1/1" name="Coin A"></dip>
+		<dip bits="6,7" ids="4/1,2/1,3/1,1/1" name="Coin B"></dip>
+		<!-- B -->
+		<dip bits="8" ids="No,Yes" name="Allow Continue"></dip>
+		<dip bits="9,10" ids="Very hard,easy,hard,normal" name="Level"></dip>
+		<dip bits="11,13" ids="Bonus item,30k 60k,30k 80k,20k 60k,40k 100k,20k 70k,30k 70k,20k 50k" name="Bonus Life"></dip>
+		<dip bits="14,15" ids="Upright 1P,Upright 2P,Cocktail" name="Cabinet"></dip>
+		</switches>
+
+	<rom index="1"><part> 00 </part></rom>
+	<rom index="0" md5="none" zip="sectionz.zip">
+		<!-- 32-byte Header -->
+		<part> 00 00 00 00 00 00 00 00 </part>
+		<part> 01 80 02 00 02 40 06 40 </part>
+		<part> 08 40 FF FF FF FF FF FF </part>
+		<part> FF FF FF FF FF FF FF FF </part>
+		<!-- ROMs -->
+		<!-- CPU: banks -->
+		<part crc="22f161b8" name="7c_sz02.bin"></part>
+		<part crc="4c7111ed" name="9c_sz03.bin"></part>
+		<!-- CPU: non banked -->
+		<part crc="69585125" name="6c_sz01.bin"></part>
+		<!-- Sound -->
+		<part crc="a6073566" name="11e_sz04.bin"></part>
+		<!-- CHAR -->
+		<part crc="3173ba2e" name="9h_sz05.bin"></part>
+		<!-- SCROLL -->
+		<interleave output="32">
+		<part crc="36bb9bf7" map="0001" name="3f_sz15.bin"></part>
+		<part crc="11d47dfd" map="0010" name="3b_sz12.bin"></part>
+		<part crc="1b3d4d7f" map="0100" name="3d_sz13.bin"></part>
+		<part crc="63782e30" map="1000" name="3e_sz14.bin"></part>
+		</interleave>
+		<interleave output="32">
+		<part crc="da8f06c9" map="0001" name="1f_sz09.bin"></part>
+		<part crc="df703b68" map="0010" name="1b_sz06.bin"></part>
+		<part crc="f5b3a29f" map="0100" name="1d_sz07.bin"></part>
+		<part crc="d57d9f13" map="1000" name="1e_sz08.bin"></part>
+		</interleave>
+		<!-- OBJ -->
+		<interleave output="16">
+		<part crc="8df7b24a" map="01" name="3j_sz17.bin"></part>
+		<part crc="500ff2bb" map="10" name="3h_sz16.bin"></part>
+		</interleave>
+		<interleave output="16">
+		<part crc="685d4c54" map="01" name="1j_sz11.bin"></part>
+		<part crc="00b3d244" map="10" name="1h_sz10.bin"></part>
+		</interleave>
+		</rom>
+	<rom_2></rom_2>
+	<rom_3></rom_3>
+	<rom_4></rom_4>
+
+	<nvram></nvram>
+
+	<remark></remark>
+
+	<mratimestamp>20210430005030</mratimestamp>
+</misterromdescription>

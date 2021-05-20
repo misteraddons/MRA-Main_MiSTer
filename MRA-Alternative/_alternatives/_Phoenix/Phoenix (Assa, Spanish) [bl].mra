@@ -1,0 +1,56 @@
+<misterromdescription>
+	<name>Phoenix</name>
+	<region></region>
+	<homebrew>no</homebrew>
+	<bootleg>yes</bootleg>
+	<version>Assa, Spanish</version>
+	<alternative>Phoenix</alternative>
+	<platform></platform>
+	<series></series>
+	<year>1981</year>
+	<manufacturer>Amstar</manufacturer>
+	<category>Shooter - Gallery</category>
+
+	<setname>phoenixass</setname>
+	<parent>phoenix</parent>
+	<mameversion>0218</mameversion>
+	<rbf>phoenix</rbf>
+	<about></about>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (cw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (alternating)</players>
+	<joystick>2-way horizontal</joystick>
+	<special_controls></special_controls>
+	<buttons>2</buttons>
+	<button_names></button_names>
+
+	<switches></switches>
+
+	<rom_1></rom_1>
+	<rom index="0" md5="04a476cbf30f5036cdcb78f6c7c67abf" zip="phoenix.zip|phoenixass.zip">
+		<part crc="5b8c55a8" name="ic45.bin"></part>
+		<part crc="dbc942fa" name="ic46.bin"></part>
+		<part crc="cbbb8839" name="ic47.bin"></part>
+		<part crc="1e2e2fc7" name="ic48.bin"></part>
+		<part crc="1a1ce0d0" name="ic49.bin"></part>
+		<part crc="ac5e9ec1" name="ic50.bin"></part>
+		<part crc="2eab35b4" name="ic51.bin"></part>
+		<part crc="15a02d87" name="ic52.bin"></part>
+		<part crc="3c7e623f" name="ic23.bin"></part>
+		<part crc="59916d3b" name="ic24.bin"></part>
+		<part crc="bb0525ed" name="ic39.bin"></part>
+		<part crc="4178aa4f" name="ic40.bin"></part>
+		</rom>
+	<rom_2></rom_2>
+	<rom_3></rom_3>
+	<rom_4></rom_4>
+
+	<nvram></nvram>
+
+	<remark></remark>
+
+	<mratimestamp>20210430005030</mratimestamp>
+</misterromdescription>

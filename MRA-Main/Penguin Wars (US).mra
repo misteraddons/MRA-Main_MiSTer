@@ -1,0 +1,57 @@
+<misterromdescription>
+	<name>Penguin Wars</name>
+	<region>USA</region>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<version></version>
+	<alternative></alternative>
+	<platform></platform>
+	<series></series>
+	<year>1985</year>
+	<manufacturer>UPL</manufacturer>
+	<category>Sports</category>
+
+	<setname>pkunwar</setname>
+	<parent>pkunwar</parent>
+	<mameversion>0221</mameversion>
+	<rbf>penguinkunwars</rbf>
+	<about author="MrX-8B" source="https://github.com/MrX-8B/MiSTer-Arcade-PenguinKunWars" twitter="@MrX_8B" webpage="https://patreon.com/MrX_8B"></about>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<joystick>2-way horizontal</joystick>
+	<special_controls></special_controls>
+	<buttons>1</buttons>
+	<button_names></button_names>
+
+	<switches default="FB">
+		<dip bits="0,1" ids="3 Coins/1 Credit,1 Coin/2 Credits,2 Coins/1 Credit,1 Coin/1 Credit" name="Coinage"></dip>
+		<dip bits="3" ids="Off,On" name="Demo Sounds"></dip>
+		<dip bits="4,5" ids="Hardest,Easy,Hard,Medium" name="Difficulty"></dip>
+		<dip bits="7" ids="On,Off" name="Free Play"></dip>
+		</switches>
+
+	<rom_1></rom_1>
+	<rom index="0" md5="ac9b22ee3d952f241e278c0f1e238ed4" zip="pkunwar.zip">
+		<part crc="428d3b92" name="pkwar.01y"></part>
+		<part crc="ce1da7bc" name="pkwar.02y"></part>
+		<part crc="63204400" name="pkwar.03y"></part>
+		<part crc="061dfca8" name="pkwar.04y"></part>
+		<part crc="ce2d2c7b" name="pkwar.01r"></part>
+		<part crc="abc1f661" name="pkwar.02r"></part>
+		<part crc="56faebea" name="pkwar.03r"></part>
+		<part crc="af0fc5e2" name="pkwar.col"></part>
+		</rom>
+	<rom_2></rom_2>
+	<rom_3></rom_3>
+	<rom_4></rom_4>
+
+	<nvram></nvram>
+
+	<remark></remark>
+
+	<mratimestamp>20210430005030</mratimestamp>
+</misterromdescription>

@@ -1,0 +1,48 @@
+<misterromdescription>
+	<name>Tetris</name>
+	<region></region>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<version></version>
+	<alternative></alternative>
+	<platform></platform>
+	<series>Tetris</series>
+	<year>1988</year>
+	<manufacturer>Atari</manufacturer>
+	<category>Puzzle</category>
+
+	<setname>atetris</setname>
+	<parent>atetris</parent>
+	<mameversion>0220</mameversion>
+	<rbf>ataritetris</rbf>
+	<about author="MrX-8B" source="https://github.com/MiSTer-devel/Arcade-ATetris_MiSTer" twitter="@MrX_8B" webpage="https://patreon.com/MrX_8B"></about>
+
+	<resolution>15kHz</resolution>
+	<rotation>vertical (ccw)</rotation>
+	<flip>no</flip>
+
+	<players>2 (simultaneous)</players>
+	<joystick>4-way</joystick>
+	<special_controls></special_controls>
+	<buttons>1</buttons>
+	<button_names></button_names>
+
+	<switches></switches>
+
+	<rom index="1">
+		<part>00</part>
+		</rom>
+	<rom index="0" md5="a0c77ec919e7958798ce6ca999df4f85" zip="atetris.zip">
+		<part crc="2acbdb09" name="136066-1100.45f"></part>
+		<part crc="84a1939f" name="136066-1101.35a"></part>
+		</rom>
+	<rom_2></rom_2>
+	<rom_3></rom_3>
+	<rom_4></rom_4>
+
+	<nvram></nvram>
+
+	<remark></remark>
+
+	<mratimestamp>20210430005030</mratimestamp>
+</misterromdescription>

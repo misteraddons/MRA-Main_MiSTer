@@ -1,0 +1,54 @@
+<misterromdescription>
+	<name>Snap Jack</name>
+	<region></region>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<version></version>
+	<alternative></alternative>
+	<platform></platform>
+	<series></series>
+	<year>1982</year>
+	<manufacturer>Universal</manufacturer>
+	<category>Platform</category>
+
+	<setname>snapjack</setname>
+	<parent>snapjack</parent>
+	<mameversion>0220</mameversion>
+	<rbf>snapjack</rbf>
+	<about></about>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>0</buttons>
+	<button_names></button_names>
+
+	<switches></switches>
+
+	<rom_1></rom_1>
+	<rom index="0" md5="c84aa7495fa0af63de7a6c72c1c8b730" zip="snapjack.zip">
+		<part crc="6b30fcda" name="sj1.c4"></part>
+		<part crc="1f1088d1" name="sj2.d4"></part>
+		<part crc="edd65f3a" name="sj3.e4"></part>
+		<part crc="f4481192" name="sj4.h4"></part>
+		<part crc="1bff7d05" name="sj5.j4"></part>
+		<part crc="21793edf" name="sj6.k4"></part>
+		<part crc="b7f105b6" name="sj8.l7"></part>
+		<part crc="1cdb03a8" name="sj7.m7"></part>
+		<part crc="ff2011c7" name="sj9.f7"></part>
+		<part crc="f097babb" name="sj0.h7"></part>
+		</rom>
+	<rom_2></rom_2>
+	<rom_3></rom_3>
+	<rom_4></rom_4>
+
+	<nvram></nvram>
+
+	<remark></remark>
+
+	<mratimestamp>20210430005030</mratimestamp>
+</misterromdescription>

@@ -1,0 +1,54 @@
+<misterromdescription>
+	<name>Cosmic Avenger</name>
+	<region></region>
+	<homebrew>no</homebrew>
+	<bootleg>no</bootleg>
+	<version></version>
+	<alternative></alternative>
+	<platform></platform>
+	<series></series>
+	<year>1981</year>
+	<manufacturer>Universal</manufacturer>
+	<category>Shooter - Horizontal</category>
+
+	<setname>cavenger</setname>
+	<parent>cavenger</parent>
+	<mameversion>0220</mameversion>
+	<rbf>cosmicavenger</rbf>
+	<about></about>
+
+	<resolution>15kHz</resolution>
+	<rotation>horizontal</rotation>
+	<flip></flip>
+
+	<players>2 (alternating)</players>
+	<joystick>8-way</joystick>
+	<special_controls></special_controls>
+	<buttons>2</buttons>
+	<button_names></button_names>
+
+	<switches></switches>
+
+	<rom_1></rom_1>
+	<rom index="0" md5="f1233ff57be1767247bdd18c7b0bdf69" zip="cavenger.zip">
+		<part crc="9e0cc781" name="1.c4"></part>
+		<part crc="5ce5b950" name="2.d4"></part>
+		<part crc="bc28218d" name="3.e4"></part>
+		<part crc="2b32e9f5" name="4.h4"></part>
+		<part crc="d117153e" name="5.j4"></part>
+		<part crc="c7d366cb" name="6.k4"></part>
+		<part crc="b022bf2d" name="8.l7"></part>
+		<part crc="b022bf2d" name="8.l7"></part>
+		<part crc="63357785" name="9.f7"></part>
+		<part crc="52ad1133" name="0.h7"></part>
+		</rom>
+	<rom_2></rom_2>
+	<rom_3></rom_3>
+	<rom_4></rom_4>
+
+	<nvram></nvram>
+
+	<remark></remark>
+
+	<mratimestamp>20210430005030</mratimestamp>
+</misterromdescription>
