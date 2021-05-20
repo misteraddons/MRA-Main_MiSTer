@@ -24,7 +24,7 @@
 	<players>1</players>
 	<joystick>8-way</joystick>
 	<special_controls>twin stick</special_controls>
-	<buttons>4</buttons>
+	<num_buttons>4</num_buttons>
 	<buttons default="A,Y,X,B,Start,Select,R,L" names="Fire Right,Fire Left,Fire Up,Fire Down,Start 1P,Start 2P,Coin,Pause"></buttons>
 
 	<switches default="FF,FF,00">

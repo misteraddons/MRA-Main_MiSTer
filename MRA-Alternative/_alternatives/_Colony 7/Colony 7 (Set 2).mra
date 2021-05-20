@@ -24,7 +24,7 @@
 	<players>1</players>
 	<joystick>8-way</joystick>
 	<special_controls></special_controls>
-	<buttons>3</buttons>
+	<num_buttons>3</num_buttons>
 	<buttons names="Fire,Bomb,-,-,-,Start 1P,Start 2P,Coin,,-,-,-,Pause" default="A,B,Start,Select,R"/>
 
 	<switches>

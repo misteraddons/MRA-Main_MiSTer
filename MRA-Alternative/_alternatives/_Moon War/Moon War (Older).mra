@@ -24,7 +24,7 @@
 	<players>2 (alternating)</players>
 	<joystick></joystick>
 	<special_controls>spinner</special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 	<buttons default="A,B,X,Y,Start,Select,R" names="Fire,Thrust,Shield,Hyperflip,Start 1P,Start 2P,Coin"></buttons>
 
 	<switches default="FF,FC,F3">

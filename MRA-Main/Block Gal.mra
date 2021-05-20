@@ -25,7 +25,7 @@
 	<players>2 (alternating)</players>
 	<joystick></joystick>
 	<special_controls>dial</special_controls>
-	<buttons>0</buttons>
+	<num_buttons>0</num_buttons>
 	<buttons default="A,L,Start,Select,R,C" names="Fire,Fast Move,-,-,-,Start 1P,Start 2P,Coin,Pause"></buttons>
 
 	<switches default="FF,82">

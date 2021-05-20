@@ -24,7 +24,7 @@
 	<players>2 (simultaneous)</players>
 	<joystick>8-way</joystick>
 	<special_controls></special_controls>
-	<buttons>3</buttons>
+	<num_buttons>3</num_buttons>
 	<buttons default="A,B,X,R,L,Start" names="Shots/Laser,Spread/Laser Bomber,Full-Auto,Start,Coin,Pause"></buttons>
 
 	<switches></switches>

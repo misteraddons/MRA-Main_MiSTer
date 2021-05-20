@@ -24,7 +24,7 @@
 	<players>2 (alternating)</players>
 	<joystick>8-way</joystick>
 	<special_controls></special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 	<buttons default="A,B,Start,Select,R,L" names="Shoot,Switch,-,-,Start 1P,Start 2P,Coin,Pause"></buttons>
 
 	<switches default="FF,FC,D1">

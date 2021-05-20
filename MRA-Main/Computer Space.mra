@@ -24,7 +24,7 @@
 	<players>1</players>
 	<joystick>2-way horizontal</joystick>
 	<special_controls></special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 	<buttons default="B,A,Start,R" names="Thrust,Fire,Start,Coin"></buttons>
 
 	<switches default="02">

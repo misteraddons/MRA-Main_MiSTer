@@ -24,7 +24,7 @@
 	<players>1</players>
 	<joystick></joystick>
 	<special_controls></special_controls>
-	<buttons>5</buttons>
+	<num_buttons>5</num_buttons>
 	<button_names></button_names>
 
 	<switches></switches>

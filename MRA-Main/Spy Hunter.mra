@@ -25,7 +25,7 @@
 	<players>1</players>
 	<joystick></joystick>
 	<special_controls>paddle / pedal</special_controls>
-	<buttons>1</buttons>
+	<num_buttons>1</num_buttons>
 	<buttons default="A,B,X,Y,Start,R,Select" names="Machine Guns,Missiles,Smoke Screen,Oil Slick,Van/Start,Gear Shift,Coin"></buttons>
 
 	<switches default="FF 00">

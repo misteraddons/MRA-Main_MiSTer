@@ -25,7 +25,7 @@
 	<players>1</players>
 	<joystick></joystick>
 	<special_controls>trackball</special_controls>
-	<buttons>4</buttons>
+	<num_buttons>4</num_buttons>
 	<buttons default="Y,L,B,A,R,X,Select" names="L-Button/Start1,L-Trigger,M-Button,R-Button/Start2,R-Trigger,Reverse,Coin"></buttons>
 
 	<switches default="FF 00">

@@ -25,7 +25,7 @@
 	<players>2 (simultaneous)</players>
 	<joystick>2-way vertical</joystick>
 	<special_controls>twin stick</special_controls>
-	<buttons>2</buttons>
+	<num_buttons>2</num_buttons>
 	<buttons default="A,B,X,Y,Start,R" names="Fire 1,Right-Rev,Right-Fwd,Fire 2,Start,Coin"></buttons>
 
 	<switches default="FF,00">

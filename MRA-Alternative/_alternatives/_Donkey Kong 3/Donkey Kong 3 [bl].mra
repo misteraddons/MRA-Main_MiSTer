@@ -24,7 +24,7 @@
 	<players>2 (alternating)</players>
 	<joystick>4-way</joystick>
 	<special_controls></special_controls>
-	<buttons>1</buttons>
+	<num_buttons>1</num_buttons>
 	<buttons default="A,Start,Select,R,L" names="Spray,Start 1P,Start 2P,Coin,Pause"></buttons>
 
 	<switches></switches>

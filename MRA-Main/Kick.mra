@@ -24,7 +24,7 @@
 	<players>1</players>
 	<joystick></joystick>
 	<special_controls>trackball</special_controls>
-	<buttons>1</buttons>
+	<num_buttons>1</num_buttons>
 	<buttons names="Kick,Speed,-,-,-,-,Start 1P,Start 2P,Coin,Pause" default="A,B,Start,Select,R,L"/>
 
 	<switches default="FE 00">

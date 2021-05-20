@@ -24,7 +24,7 @@
 	<players>1</players>
 	<joystick>4-way</joystick>
 	<special_controls></special_controls>
-	<buttons>1</buttons>
+	<num_buttons>1</num_buttons>
 	<buttons default="A,B,Y" names="Button 1,Button 2,Coin/Start"></buttons>
 
 	<switches></switches>

@@ -24,7 +24,7 @@
 	<players>2 (alternating)</players>
 	<joystick>8-way</joystick>
 	<special_controls>twin stick</special_controls>
-	<buttons>4</buttons>
+	<num_buttons>4</num_buttons>
 	<buttons default="A,B,X,Y,Start,Select,R" names="Shoot Right,Shoot Down,Shoot Up,Shoot Left,Start 1P/Bomb,Start 2P,Coin"></buttons>
 
 	<switches default="FF,FD,F3">

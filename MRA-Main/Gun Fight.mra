@@ -1,5 +1,5 @@
 <misterromdescription>
-	<name>Gun Fight </name>
+	<name>Gun Fight</name>
 	<region></region>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
@@ -25,7 +25,7 @@
 	<players>2 (alternating)</players>
 	<joystick>8-way</joystick>
 	<special_controls></special_controls>
-	<buttons>0</buttons>
+	<num_buttons>0</num_buttons>
 	<buttons default="A,X,Y,Start,Select,R" names="Fire,GunUp,GunDown,-,Start 1P,Start 2P,Coin"></buttons>
 
 	<switches default="00,00,00">

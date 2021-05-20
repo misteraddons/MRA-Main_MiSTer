@@ -24,7 +24,7 @@
 	<players>2 (simultaneous)</players>
 	<joystick>2-way horizontal</joystick>
 	<special_controls></special_controls>
-	<buttons>3</buttons>
+	<num_buttons>3</num_buttons>
 	<button_names></button_names>
 
 	<switches></switches>

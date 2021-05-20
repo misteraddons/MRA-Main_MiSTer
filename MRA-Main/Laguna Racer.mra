@@ -24,7 +24,7 @@
 	<players>1</players>
 	<joystick>2-way vertical</joystick>
 	<special_controls>spinner</special_controls>
-	<buttons>0</buttons>
+	<num_buttons>0</num_buttons>
 	<buttons default="A,R" names="Gear,-,-,-,-,-,Coin"></buttons>
 
 	<switches default="00,00,00">

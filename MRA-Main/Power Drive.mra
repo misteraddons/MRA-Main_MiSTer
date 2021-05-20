@@ -25,7 +25,7 @@
 	<players>3</players>
 	<joystick>4-way</joystick>
 	<special_controls></special_controls>
-	<buttons>1</buttons>
+	<num_buttons>1</num_buttons>
 	<buttons default="L,R,B,A,Start" names="Left Wheel,Right Wheel,Wheelie,4WD/2WD,-,Coin"></buttons>
 
 	<switches default="FF,00">
