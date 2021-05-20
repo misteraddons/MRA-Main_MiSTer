@@ -1,11 +1,11 @@
 <misterromdescription>
-	<name>Kid Niki- Radical Ninja (World)</name>
-	<region></region>
+	<name>Kid Niki- Radical Ninja</name>
+	<region>World</region>
 	<homebrew>no</homebrew>
 	<bootleg>no</bootleg>
 	<version></version>
 	<alternative></alternative>
-	<platform>Irem M61</platform>
+	<platform>Irem M62</platform>
 	<series></series>
 	<year>1986</year>
 	<manufacturer>Irem</manufacturer>
