@@ -4,7 +4,7 @@
 The introduction of the MRA format and the creation of the Arcade Organizer script has made discovering and sorting arcade games much easier. I felt there is still room for improvement by standardizing the xml fields and curating a list of genres instead of using MAME's more than 200 game categories.
 
 ## Filename Schema
-<name> (2 letter region if applicable, version if applicable) [bl/hb if applicable]
+Name (2 letter region, version) [bl/hb].mra
 ### Examples:
 ```
 Bubbles.mra	 
