@@ -28,9 +28,9 @@
 	<buttons default="R,Start" names="Coin,Start"></buttons>
 
 	<switches default="0A">
-		<dip bits="0" ids="One,Two" name="Credit per coin"></dip>
-		<dip bits="1,4" ids="0,10,20,30,40,50,60,70,80,90,100" name="Playtime pot [%]"></dip>
-		</switches>
+		<dip bits="0" name="Credit per coin" ids="One,Two"/>
+		<dip bits="1,4" name="Playtime pot [%]" ids="0,10,20,30,40,50,60,70,80,90,100"/>
+	</switches>
 
 	<rom index="1"></rom>
 	<rom index="0"></rom>

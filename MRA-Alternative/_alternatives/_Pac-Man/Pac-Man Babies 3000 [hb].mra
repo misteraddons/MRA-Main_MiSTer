@@ -1,5 +1,5 @@
 <misterromdescription>
-	<name>Pac Man 1000</name>
+	<name>Pac-Man Babies 3000</name>
 	<region></region>
 	<homebrew>yes</homebrew>
 	<bootleg>no</bootleg>
@@ -11,7 +11,7 @@
 	<manufacturer>Blue Justice</manufacturer>
 	<category>Maze</category>
 
-	<setname>pm1000</setname>
+	<setname>pmba3000</setname>
 	<parent>puckman</parent>
 	<mameversion>0217</mameversion>
 	<rbf>pacman</rbf>
@@ -36,19 +36,19 @@
 		</switches>
 
 	<rom index="1"></rom>
-	<rom index="0" md5="184fcaf1834f0c80d7fb84b52829f95d" zip="/hbmame/puckman.zip">
+	<rom index="0" md5="cc67bf4c9e1c1242ebd76ee372f8983d" zip="/hbmame/puckman.zip">
 		<part crc="c1e6ab10" name="baby2/pacman.6e"></part>
 		<part crc="1a6fb2d4" name="baby2/pacman.6f"></part>
 		<part crc="bcdd1beb" name="baby2/pacman.6h"></part>
-		<part crc="817d94e3" name="chtpac/pacman.6j"></part>
+		<part crc="08f7a148" name="pmba3000/pmba3000.6j"></part>
 		<part crc="c1e6ab10" name="baby2/pacman.6e"></part>
 		<part crc="1a6fb2d4" name="baby2/pacman.6f"></part>
 		<part crc="bcdd1beb" name="baby2/pacman.6h"></part>
-		<part crc="817d94e3" name="chtpac/pacman.6j"></part>
-		<part crc="16d9f7ce" name="hm1000/pm1000.5e"></part>
-		<part crc="fd06d923" name="hm1000/pm1000.5f"></part>
-		<part crc="fd06d923" name="hm1000/pm1000.5f"></part>
-		<part crc="fd06d923" name="hm1000/pm1000.5f"></part>
+		<part crc="08f7a148" name="pmba3000/pmba3000.6j"></part>
+		<part crc="5ebb61c5" name="hmba5000/pmba3000.5e"></part>
+		<part crc="d9a055aa" name="hmba5000/pmba3000.5f"></part>
+		<part crc="d9a055aa" name="hmba5000/pmba3000.5f"></part>
+		<part crc="d9a055aa" name="hmba5000/pmba3000.5f"></part>
 		<part crc="a9cc86bf" name="82s126.1m"></part>
 		<part crc="3eb3a8e4" name="82s126.4a"></part>
 		<part crc="77245b66" name="82s126.3m"></part>
