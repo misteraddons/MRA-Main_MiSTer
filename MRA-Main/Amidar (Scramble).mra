@@ -60,14 +60,14 @@
 		<part crc="2082ad0a" name="2716.a6" repeat="4"></part>
 		<part crc="f940dcc3" name="amidar.clr"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 				 00 00 82 00 1E 00 01 00
 				 00 00 80 A8 03 00 01 00
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="33"></nvram>
 

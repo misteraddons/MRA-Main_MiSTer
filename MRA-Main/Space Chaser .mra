@@ -48,14 +48,14 @@
 		<part crc="950cf973" name="rt06.ic2"></part>
 		<part crc="950cf973" name="rt06.ic2"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 				 00 00 22 44 00 0A 1B 1B
 				 00 00 23 3F 00 03 01 00
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="5" size="13"></nvram>
 

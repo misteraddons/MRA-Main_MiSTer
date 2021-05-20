@@ -30,7 +30,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="97793b507edf1529355e900a01dd0e5a" type="merged|nonmerged|split" zip="ckong.zip">
 		<!-- maincpu -->
 		<part crc="2171cac3" name="falcon7"></part>
@@ -57,9 +57,9 @@
 		<part crc="ab1940fa" name="ck6u.bin"></part>
 		<part crc="b4e827a5" name="ck6t.bin"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

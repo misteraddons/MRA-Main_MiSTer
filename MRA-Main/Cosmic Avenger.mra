@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="f1233ff57be1767247bdd18c7b0bdf69" zip="cavenger.zip">
 		<part crc="9e0cc781" name="1.c4"></part>
 		<part crc="5ce5b950" name="2.d4"></part>
@@ -42,9 +42,9 @@
 		<part crc="63357785" name="9.f7"></part>
 		<part crc="52ad1133" name="0.h7"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

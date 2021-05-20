@@ -30,7 +30,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="2c2576d313ea8bc50149a101695b6094" zip="mpatrol.zip|mpatrolw.zip">
 		<part crc="baa1a1d4" name="mpa-1w.3m"></part>
 		<part crc="52459e51" name="mpa-2w.3l"></part>
@@ -45,9 +45,9 @@
 		<part crc="c46a7f72" name="mpe-1.3l"></part>
 		<part crc="561d3108" name="mp-s1.1a"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

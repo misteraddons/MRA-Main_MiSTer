@@ -55,9 +55,9 @@
 		<part crc="ee776741" name="handiman/handiman.c1"></part>
 		<part crc="e17ec630" name="handiman/handiman.a1"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

@@ -53,9 +53,9 @@
 		<part crc="78713e78" name="power_drive_snd_u7.u7"></part>
 		<part crc="15714036" name="power_drive_snd_u8.u8"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="2048"></nvram>
 

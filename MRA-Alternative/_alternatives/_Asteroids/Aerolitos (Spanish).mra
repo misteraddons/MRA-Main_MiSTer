@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="22d2b37eb86b3e4d60f3fe12e8b5e16a" zip="asteroid.zip|aerolitos.zip">
 		<part crc="0cc75459" name="2516_1e.bin"></part>
 		<part crc="096ed35c" name="2516_1d.bin"></part>
@@ -37,9 +37,9 @@
 		<part crc="32e69e66" name="2716_3n.bin"></part>
 		<part crc="97953db8" name="034602-01.c8"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="72cf4f0a5baf5a53342df3908589c359" zip="dorodon.zip">
 		<part crc="460aaf26" name="dorodon.0"></part>
 		<part crc="d2451eb6" name="dorodon.1"></part>
@@ -39,9 +39,9 @@
 		<part crc="5eee2b85" name="dorodon.5"></part>
 		<part crc="395ac25a" name="dorodon.6"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="8f5c7927818f4f8abacb56c2c32f6f03" zip="asteroid.zip|asteroid2.zip">
 		<part crc="0cc75459" name="035145-02.ef2"></part>
 		<part crc="096ed35c" name="035144-02.h2"></part>
@@ -37,9 +37,9 @@
 		<part crc="8b71fd9e" name="035127-02.np3"></part>
 		<part crc="97953db8" name="034602-01.c8"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

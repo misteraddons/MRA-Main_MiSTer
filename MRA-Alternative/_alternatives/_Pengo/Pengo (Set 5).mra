@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="7b1114bf173a8a027311bef6e0694e87" zip="pengo.zip|pengo5.zip">
 		<part crc="43e45441" name="0_oct6-82.bin"></part>
 		<part crc="30a52a90" name="1_oct11-82.bin"></part>
@@ -46,9 +46,9 @@
 		<part crc="77245b66" name="pr1636.70"></part>
 		<part crc="3a5844ec" name="pr1633.78"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

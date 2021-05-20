@@ -30,7 +30,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="b97d0fbce3f19beffbd084f3fdf6fab9" zip="/hbmame/galaga.zip|namco54.zip">
 		<part crc="3ef0b053" name="galagads/3200a.bin"></part>
 		<part crc="1b280831" name="galagads/3300b.bin"></part>
@@ -43,9 +43,9 @@
 		<part crc="bf59992f" name="vgalaga/v_07m_g08.bin"></part>
 		<part crc="ee7357e0" name="54xx.bin" zip="namco54.zip"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

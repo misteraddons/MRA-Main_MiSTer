@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="9b74d8028f075587a373275fe558355d" zip="phoenix.zip|avefenix.zip">
 		<part crc="5bc2e2fe" name="4101-8516.rom"></part>
 		<part crc="dcf2cc3e" name="4102-2716.rom"></part>
@@ -44,9 +44,9 @@
 		<part crc="53413e8f" name="4109-8516.rom"></part>
 		<part crc="0be2ba91" name="41010-8516.rom"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

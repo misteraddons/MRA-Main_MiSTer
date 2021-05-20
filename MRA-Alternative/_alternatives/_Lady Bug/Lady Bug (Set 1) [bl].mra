@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" zip="ladybug.zip|ladybugb.zip" md5="8422c93bd1d479f0a032e4052b69a072">
 		<part crc="ec135e54" name="lb1a.cpu"/>
 		<part crc="3049c5c6" name="lb2a.cpu"/>
@@ -42,9 +42,9 @@
 		<part crc="77b1da1e" name="l9.f7"/>
 		<part crc="aa82e00b" name="l0.h7"/>
 	</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

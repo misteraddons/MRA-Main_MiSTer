@@ -51,7 +51,7 @@
 		<part crc="e5999d52" name="turt_vid.5h" repeat="4"></part>
 		<part crc="f3ef02dd" name="turtles.clr"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 				 00 00 82 00 1E 00 00 00
@@ -59,7 +59,7 @@
 				 00 00 93 40 01 01 01 00
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="22"></nvram>
 

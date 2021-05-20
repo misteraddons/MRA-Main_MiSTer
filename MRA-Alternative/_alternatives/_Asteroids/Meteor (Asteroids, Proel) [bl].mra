@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="9418b4ceffb2ccccf8d0ccdbe76ae6c9" zip="asteroid.zip|meteorite.zip">
 		<part crc="cdf720c6" name="2"></part>
 		<part crc="ee58bdf0" name="3"></part>
@@ -41,9 +41,9 @@
 		<part crc="d62b2887" name="1"></part>
 		<part crc="97953db8" name="meteorites_bprom.bin"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

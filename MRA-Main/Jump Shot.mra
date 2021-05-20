@@ -58,9 +58,9 @@
 		<part crc="77245b66" name="82s126.3m"></part>
 		<part crc="872b42f3" name="prom.7f"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

@@ -30,7 +30,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="94dc3dc50a2cddcc9679bb342802e3ce" zip="foodf.zip|foodfc.zip">
 		<part crc="193a299f" name="136020-113.8c"></part>
 		<part crc="33ed6bbe" name="136020-114.9c"></part>
@@ -45,9 +45,9 @@
 		<part crc="84372edf" name="136020-111.4d"></part>
 		<part crc="c1385dab" name="foodfc.nv"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

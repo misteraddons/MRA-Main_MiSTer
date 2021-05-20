@@ -61,13 +61,13 @@
 		<part crc="55cd5acd" name="atlantis2/boa_9.5f" repeat="4"></part>
 		<part crc="4e3caeab" name="c01s.6e"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 				 00 00 40 3D 2C 00 00 00
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="44"></nvram>
 

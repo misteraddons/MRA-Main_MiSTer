@@ -14398,7 +14398,7 @@ A2 81 B2 00 8A 7A A0 00 6B 4F 67 00 73 4C 5F 00
 				 00 00 80 F4 1E 00 51 00
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="60"></nvram>
 

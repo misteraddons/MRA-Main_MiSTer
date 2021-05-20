@@ -76,9 +76,9 @@
 		<part crc="5c731006" name="136043-1120.16r"/>
 		<part crc="bddc3dfc" name="136043-1104.6p"/>
 	</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

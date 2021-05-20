@@ -101,7 +101,7 @@
 		<part crc="70d668ef" name="dr27.3j"/>
 		<part crc="11cd1f2e" name="dr32.5p"/>
 	</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 		00 00 FF FF 00 3F 00 02 00 02 00 01 00 FF 00 00
@@ -109,7 +109,7 @@
 		00 00 E0 2B 00 03 00 00
 		</part>
 	</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="108"></nvram>
 

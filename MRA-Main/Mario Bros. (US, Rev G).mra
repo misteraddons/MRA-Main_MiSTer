@@ -34,7 +34,7 @@
 		<dip bits="6,7" ids="1 Easy,Medium,Hard,Hardest" name="Difficulty"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="267acf55988daa5ffda65cd58c268f64" zip="mario.zip">
 		<part crc="c0c6e014" name="tma1-c-7f_g.7f"></part>
 		<part crc="116b3856" name="tma1-c-7e_g.7e"></part>
@@ -823,7 +823,7 @@ ff ff 01 00 fe ff 02 00 ff ff 01 00 ff ff 00 00
 00 00 ff ff 02 00 fd ff 03 00 fe ff 01 00 ff ff
       	</part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 		00 FF FF FF 00 FF 00 02 00 02 00 01 00 FF 00 00
@@ -832,7 +832,7 @@ ff ff 01 00 fe ff 02 00 ff ff 01 00 ff ff 00 00
 		00 00 68 23 00 03 01 00
 		</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="233"></nvram>
 

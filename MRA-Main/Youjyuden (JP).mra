@@ -101,14 +101,14 @@
 		<part crc="a6fd355c" name="yju_p2hb.bpr"/>
 		<part crc="2095e6a3" name="yju_b-5p.bpr"/>
 	</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 		00 00 FF FF 00 3F 00 02 00 02 00 01 00 FF 00 00
 		00 00 E5 65 00 37 70 4E
 		</part>
 	</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="55"></nvram>
 

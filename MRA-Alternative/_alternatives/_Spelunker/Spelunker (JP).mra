@@ -108,7 +108,7 @@
 		<part crc="0478082b" name="sprm.2h"/>
 		<part crc="746c6238" name="sprb.5p"/>
 	</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 		00 00 FF FF 00 3F 00 02
@@ -117,7 +117,7 @@
 		00 00 E0 3B 00 02 39 08
 		</part>
 	</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="102"></nvram>
 

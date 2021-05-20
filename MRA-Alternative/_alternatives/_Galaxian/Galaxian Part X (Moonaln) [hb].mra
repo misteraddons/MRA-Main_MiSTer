@@ -36,7 +36,7 @@
 		<dip bits="18" ids="3,5" name="Lives"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="6129fa2b504f44829c91da7bebd31edb" zip="galaxian.zip|galapx.zip">
 		<part crc="79e4007d" name="galx.u"></part>
 		<part crc="bc16064e" name="galx.v"></part>
@@ -52,9 +52,9 @@
 		<part crc="cbe84a76" name="galx.1k"></part>
 		<part crc="c3ac9467" name="6l.bpr"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="5041f34c91cf238e907a9d7c2c7a05e2" zip="arkanoid.zip|arktayt2.zip">
 		<part crc="6e0a2b6f" name="ic81.3f"></part>
 		<part crc="5a97dd56" name="ic82.5f"></part>
@@ -40,9 +40,9 @@
 		<part crc="abb002fb" name="ic74.12e"></part>
 		<part crc="a7c6c277" name="ic75.13e"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

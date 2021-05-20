@@ -74,7 +74,7 @@
 		</part>
 
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 
 	<rom index="3" md5="none">
 		<part>
@@ -84,7 +84,7 @@
 		</part>
 	</rom>
 
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="163"></nvram>
 

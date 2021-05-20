@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="4e11462566dc7185cf6351d135140be7" zip="/hbmame/pooyan.zip">
 		<part crc="a583d5c9" name="pooyandiag/diag.4a"></part>
 		<part crc="a1463d98" name="2.5a"></part>
@@ -42,9 +42,9 @@
 		<part crc="fbe2b368" name="xx.7a"></part>
 		<part crc="e1795b3d" name="xx.8a"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

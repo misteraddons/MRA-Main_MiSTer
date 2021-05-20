@@ -30,7 +30,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="32d57ddcdf7ab064ac43b47a7d7e92aa" zip="galaga.zip|galagamw.zip|namco54.zip">
 		<part crc="3ef0b053" name="3200a.bin"></part>
 		<part crc="1b280831" name="3300b.bin"></part>
@@ -43,11 +43,11 @@
 		<part crc="58b2f47c" name="2600j.bin"></part>
 		<part crc="ee7357e0" name="54xx.bin"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="51"></nvram>
 

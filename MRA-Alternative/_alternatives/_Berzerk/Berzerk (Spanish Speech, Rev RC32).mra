@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="99c88bf492b8e2869fcacca704af86b4" zip="berzerk.zip|berzerks.zip">
 		<part crc="19bb3aac" name="berzerk_rc32_1d.rom1.1d"></part>
 		<part crc="5423ea87" name="berzerk_rc32_3d.rom2.3d"></part>
@@ -44,9 +44,9 @@
 		<part crc="0b51409c" name="berzerk_rvos_1c.1c"></part>
 		<part crc="0b51409c" name="berzerk_rvos_1c.1c"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

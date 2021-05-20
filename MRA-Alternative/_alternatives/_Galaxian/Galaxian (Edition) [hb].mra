@@ -36,7 +36,7 @@
 		<dip bits="18" ids="2,3" name="Lives"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="880a0494b15c3e1e2866fbc04d96f1c1" zip="/hbmame/galnamco.zip">
 		<part crc="63e6d8ab" name="galaxiabh/galaxiab.u"></part>
 		<part crc="f58283e3" name="galaxiabh/galaxiab.v"></part>
@@ -52,9 +52,9 @@
 		<part crc="bc7d0985" name="galaxiabh/galaxiab.1k"></part>
 		<part crc="feea6525" name="galaxiabh/galaxiab.6l"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

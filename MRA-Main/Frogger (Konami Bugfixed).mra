@@ -208,14 +208,14 @@
 		<patch offset="0x2fff">	30</patch>
 		<!-- End ROM Changes to fix bugs by philmurr 2020-->
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 				 00 00 83 F1 0A 63 01 00
 				 00 00 83 EF 02 63 04 00
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="12"></nvram>
 

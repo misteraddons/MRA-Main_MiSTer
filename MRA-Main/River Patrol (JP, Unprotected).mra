@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="91a13a2b5d567b18edba8752438c9d14" zip="rpatrol.zip|rpatroln.zip">
 		<part crc="33b01c90" name="1_2.3k"></part>
 		<part crc="03f53340" name="2_2.3l"></part>
@@ -41,9 +41,9 @@
 		<part crc="065651a5" name="9.2t"></part>
 		<part crc="59747c31" name="8.2s"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

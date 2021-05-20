@@ -36,9 +36,9 @@
 		<part crc="2acbdb09" name="136066-1100.45f"></part>
 		<part crc="84a1939f" name="136066-1101.35a"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

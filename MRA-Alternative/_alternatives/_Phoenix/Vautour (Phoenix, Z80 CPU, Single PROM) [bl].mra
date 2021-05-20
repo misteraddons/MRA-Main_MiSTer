@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="815e735e2e40aa27facfbb64641ab1fc" zip="phoenix.zip|vautourza.zip">
 		<part crc="cd2807ee" name="1.e1"></part>
 		<part crc="3699b11a" name="2.f1"></part>
@@ -44,9 +44,9 @@
 		<part crc="8eff75c9" name="12.h4"></part>
 		<part crc="369e7476" name="11.j4"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

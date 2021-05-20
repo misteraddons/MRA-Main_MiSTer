@@ -51,9 +51,9 @@
 		<part crc="16a9166a" name="mp1-3.3m"></part>
 		<part crc="56531268" name="mp1-5.5b"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

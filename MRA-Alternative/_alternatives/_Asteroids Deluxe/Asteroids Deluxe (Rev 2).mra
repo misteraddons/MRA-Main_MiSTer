@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="395f5f531f098e826a0dab03382e17fc" zip="astdelux.zip|astdelux2.zip">
 		<part crc="8f5dabc6" name="036430-01.d1"></part>
 		<part crc="157a8516" name="036431-01.ef1"></part>
@@ -38,9 +38,9 @@
 		<part crc="3b597407" name="036800-01.r2"></part>
 		<part crc="7d511572" name="036799-01.np2"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

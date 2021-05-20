@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="bbbd4ca2676164ae9946138472d156ee" zip="/hbmame/centiped.zip">
 		<part crc="5ab0d9de" name="astropd2/136001-307.d1"></part>
 		<part crc="4c07fd3e" name="astropd2/136001-308.e1"></part>
@@ -39,9 +39,9 @@
 		<part crc="bc71790c" name="vectiped/vectiped.212"></part>
 		<part crc="6fa3093a" name="136001-213.p4"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

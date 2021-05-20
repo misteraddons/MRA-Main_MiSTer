@@ -51,9 +51,9 @@
 		<part crc="cd35a7e2" name="v7.bin"></part>
 		<part crc="25329e5a" name="prom.6l"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

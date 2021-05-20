@@ -48,11 +48,11 @@
 		<part crc="d7a6c4c4" name="dfish6.1k"></part>
 		<part crc="4e3caeab" name="82s123.6e"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>00 00 40 a8 03 00 00 00</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="3"></nvram>
 

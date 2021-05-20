@@ -50,7 +50,7 @@
 		<part crc="2f07b4ba" name="lp18.bin"></part>
 		<part repeat="2048">00</part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3">
 		<!-- 01-heli.wav -->
 		<!-- 02-warp.wav -->

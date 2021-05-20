@@ -30778,8 +30778,8 @@ A3 AE 82 00 93 A0 74 00 85 94 66 00 7C 8A 5B 00
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
 </part>
 		</rom>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="2048"></nvram>
 

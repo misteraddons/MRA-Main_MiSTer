@@ -55,13 +55,13 @@
 		<part crc="9f703006" name="ma15f" repeat="4"></part>
 		<part crc="1877368e" name="minefld.clr"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 				 00 00 80 F3 3C 01 43 00
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="60"></nvram>
 

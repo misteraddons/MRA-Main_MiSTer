@@ -50101,7 +50101,7 @@ FF FF FF FF 00 00 01 00 00 00 00 00 01 00
 		00 00 60 38 00 03 00 00
 		</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="129"></nvram>
 

@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="038f17001fe59303a36e23dd37a9bf61" zip="pooyan.zip|pooyans.zip">
 		<part crc="916ae7d7" name="ic22_a4.cpu"></part>
 		<part crc="8fe38c61" name="ic23_a5.cpu"></part>
@@ -42,9 +42,9 @@
 		<part crc="fbe2b368" name="xx.7a"></part>
 		<part crc="e1795b3d" name="xx.8a"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

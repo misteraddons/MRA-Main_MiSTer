@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="113b2afb644dd386dc7c3fc1ae685ff4" zip="nrallyx.zip">
 		<part crc="ba7de9fc" length="2048" name="nrx_prg1.1d"></part>
 		<part crc="eedfccae" length="2048" name="nrx_prg2.1e"></part>
@@ -1072,14 +1072,14 @@ a5acb1b1aba19a938c878788857f7670
 		<part crc="4e46f485" name="nrx1-7.8p"></part>
 		<part crc="a0a49017" name="nrx1-1.11n"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 				12 98 BE 00 00 FF 00 08 00 08 00 01 00 FF 0F 00
 				00 00 80 60 00 08 00 02
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="8"></nvram>
 

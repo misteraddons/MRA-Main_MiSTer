@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="ef770f91fafa988eaf7bfc5a7b7e38ee" zip="llander.zip|llander1.zip">
 		<part crc="2aff3140" name="034572-01.f1"></part>
 		<part crc="493e24b7" name="034571-01.de1"></part>
@@ -40,9 +40,9 @@
 		<part crc="ebb744f2" name="034597-01.m3"></part>
 		<part crc="355a9371" name="034599-01.r3"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

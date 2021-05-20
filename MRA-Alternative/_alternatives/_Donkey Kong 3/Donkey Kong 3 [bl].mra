@@ -53,11 +53,11 @@
 		<part crc="50e33434" name="dkc1-v.2n"></part>
 		<part repeat="2816">00</part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="241"></nvram>
 

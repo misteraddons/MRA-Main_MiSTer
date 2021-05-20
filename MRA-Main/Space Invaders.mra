@@ -177,13 +177,13 @@
 07070707070707070101010107070707
 		</part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 				 00 00 20 F4 00 02 00 00
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="5" size="2"></nvram>
 

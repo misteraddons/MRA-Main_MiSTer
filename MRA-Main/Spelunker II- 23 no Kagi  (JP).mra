@@ -100,7 +100,7 @@
 		<part repeat="0x200">FF</part>
 		<part crc="cd126f6a" name="sp2-b.5p"/>
 	</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 		00 00 FF FF 00 3F 00 02 00 02 00 01 00 FF 00 00
@@ -108,7 +108,7 @@
 		00 00 E0 4F 00 02 99 11
 		</part>
 	</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="102"/>
 

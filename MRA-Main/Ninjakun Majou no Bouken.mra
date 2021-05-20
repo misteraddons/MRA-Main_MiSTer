@@ -30,7 +30,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" zip="ninjakun.zip" md5="99e80f22f7a77cf1d574ce89486b385f">
 		<part crc="a74c4297" name="ninja-6.7n"/>
 		<part crc="53a72039" name="ninja-7.7p"/>
@@ -49,9 +49,9 @@
 		<part crc="d542bfe3" name="ninja-3.7d"/>
 		<part crc="a57385c6" name="ninja-4.7e"/>
 	</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

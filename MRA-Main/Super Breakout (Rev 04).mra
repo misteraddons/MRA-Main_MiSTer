@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="b80592e3c65a8c88bd48960d56c3e985" zip="sbrkout.zip">
 		<part crc="a35d00e3" name="033453.c1"></part>
 		<part crc="d42ea79a" name="033454.d1"></part>
@@ -40,9 +40,9 @@
 		<part crc="b8094b4c" name="006400.m2"></part>
 		<part crc="857df8db" name="006401.e2"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

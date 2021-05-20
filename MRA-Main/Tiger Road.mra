@@ -40,7 +40,7 @@
 		<dip bits="15" ids="No,Yes" name="Allow Continue"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="153ab39a778af8b5b2240d9d1719ca97" zip="tigeroad.zip">
 		<part name="tre_02.6j"></part>
 		<part name="tre_04.6k"></part>
@@ -64,9 +64,9 @@
 		<part name="tr-09a.3b"></part>
 		<part name="tr.9e"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

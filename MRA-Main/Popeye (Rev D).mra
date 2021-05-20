@@ -36,7 +36,7 @@
 		<dip bits="16" ids="No,Yes" name="Service"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="d8ca94dbdb94bd3f06d01de96854acc9" zip="popeye.zip">
 		<part crc="9af7c821" name="tpp2-c.7a"></part>
 		<part crc="c3704958" name="tpp2-c.7b"></part>
@@ -52,9 +52,9 @@
 		<part crc="e950bea1" name="tpp2-c.3a"></part>
 		<part crc="375e1602" name="tpp2-c.4a"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

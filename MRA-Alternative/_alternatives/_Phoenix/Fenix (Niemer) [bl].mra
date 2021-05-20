@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="d074284dbc43bcb912dfafe4a6bab897" zip="phoenix.zip|fenixn.zip">
 		<part crc="2afa8e2c" name="2201.bin"></part>
 		<part crc="6527395e" name="1202.bin"></part>
@@ -44,9 +44,9 @@
 		<part crc="bb0525ed" name="1209.bin"></part>
 		<part crc="0be2ba91" name="1210.bin"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

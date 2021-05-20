@@ -58,9 +58,9 @@
 		<part crc="b1cb2651" name="timbg1.bin"></part>
 		<part crc="2ae352c4" name="timbg0.bin"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="2048"></nvram>
 

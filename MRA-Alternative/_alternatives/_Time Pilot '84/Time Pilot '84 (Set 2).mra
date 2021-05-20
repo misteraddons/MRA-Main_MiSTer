@@ -59,7 +59,7 @@
 		<part crc="61d2d398" name="388d18.1f"></part>
 		<part crc="af8f839c" name="388d17.16c"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 		13 00 00 00 00 FF 00 02
@@ -68,7 +68,7 @@
 		00 00 57 36 00 03 00 00
 		</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="33"></nvram>
 

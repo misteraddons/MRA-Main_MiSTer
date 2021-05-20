@@ -29,14 +29,14 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="0ce76811f426fbaa42ffca53f89f3029" zip="atetris.zip|atetrisb.zip">
 		<part crc="944d15f6" name="tetris.01"></part>
 		<part crc="5c4e7258" name="tetris.02"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

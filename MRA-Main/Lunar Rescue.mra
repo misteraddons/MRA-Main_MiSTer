@@ -43,7 +43,7 @@
 		<part crc="8b2e38de" name="7643-1.cpu"></part>
 		<part crc="8b2e38de" name="7643-1.cpu"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 				 00 00 20 DB 00 01 0A 0A
@@ -51,7 +51,7 @@
 				 00 00 20 F4 00 02 00 05
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="5" size="13"></nvram>
 

@@ -49,7 +49,7 @@
 		<part crc="7ec554c4" name="tn06"></part>
 		<part crc="deb0ac82" name="tn07"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3">
 		<!-- 3-01 - hit balloon.wav -->
 		<!-- 3-02 - Shot.wav -->

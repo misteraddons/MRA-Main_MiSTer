@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="875553add70eb03707ed3337a6f7e3d2" zip="/hbmame/xevious.zip|namco50.zip|namco51.zip|namco54.zip">
 		<part crc="09964dda" name="xvi_1.3p"></part>
 		<part crc="60ecce84" name="xvi_2.3m"></part>
@@ -52,9 +52,9 @@
 		<part crc="c2f57ef8" name="51xx.bin" zip="namco51.zip"></part>
 		<part crc="ee7357e0" name="54xx.bin" zip="namco54.zip"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

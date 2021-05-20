@@ -58,9 +58,9 @@
 		<part crc="2a30238c" name="tapper_c.p.u._bg_1_6f_12-7-83.6f"></part>
 		<part crc="394ab576" name="tapper_c.p.u._bg_0_5f_12-7-83.5f"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

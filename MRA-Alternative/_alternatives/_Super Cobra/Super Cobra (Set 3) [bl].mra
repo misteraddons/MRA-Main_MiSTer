@@ -54,9 +54,9 @@
 		<part crc="64d113b4" name="5h_b.bin" repeat="4"></part>
 		<part crc="4e3caeab" name="6e_b.bin"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

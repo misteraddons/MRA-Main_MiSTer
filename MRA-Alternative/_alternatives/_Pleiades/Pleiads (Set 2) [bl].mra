@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="676470c55f4dcc5fdc850deb5b572cfb" zip="pleiads.zip|pleiadsb2.zip">
 		<part crc="fa98cb73" name="ic47.r1"></part>
 		<part crc="b254217c" name="ic48.r2"></part>
@@ -46,9 +46,9 @@
 		<part crc="e38eeb83" name="7611-5.33"></part>
 		<part crc="7a1bcb1e" name="7611-5.26"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

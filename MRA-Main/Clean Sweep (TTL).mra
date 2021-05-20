@@ -811,9 +811,9 @@ FF 1F 1F 1F 1F 1F 1F 1F C0 C0 C0 C0 C0 C0 00 00 C0 C0 C0 C0 C0 C0 C0 C0 00 00 00
 00 18 40 3F 00 C0 07 3F 00 18 07 3F 00 16 07 3F 00 A0 07 3F 00 20 00 00 00 FF F0 3F 00 16 1F F6 
     </part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

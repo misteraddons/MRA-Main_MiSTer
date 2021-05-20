@@ -36,7 +36,7 @@
 		<dip bits="18" ids="2,3" name="Lives"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="96d55a444bfaec609173d5ddc1138c48" zip="galaxian.zip|zerotime.zip">
 		<part crc="90a2bc61" name="zt-p01c.016"></part>
 		<part crc="a433067e" name="zt-2.016"></part>
@@ -52,9 +52,9 @@
 		<part crc="5cd7df03" name="ztc-1.016"></part>
 		<part crc="c3ac9467" name="6l.bpr"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

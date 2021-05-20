@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="d6790fb2893b2290b4ac74544e4d78e6" zip="digdug.zip">
 		<part crc="a80ec984" name="dd1a.1"></part>
 		<part crc="559f00bd" name="dd1a.2"></part>
@@ -50,14 +50,14 @@
 		<part crc="e9b3e08e" name="136007.112"></part>
 		<part crc="4cb9da99" name="136007.113"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 				10 00 00 00 00 FF 00 04 00 04 00 08 00 FF 00 00
 				00 00 89 A0 00 25 01 01
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="37"></nvram>
 

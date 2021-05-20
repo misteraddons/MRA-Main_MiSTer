@@ -51,13 +51,13 @@
 		<part crc="2c5b612b" name="5f.cpu" repeat="4"></part>
 		<part crc="fce333c7" name="colr6f.cpu"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 				 00 00 80 EF 3C 01 4C 00
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="60"></nvram>
 

@@ -39,7 +39,7 @@
     	<dip bits="16" name="Flip" ids="Off,On" />
   	</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" zip="mrdofix.zip|mrdo.zip" type="merged" md5="none">
         <part crc="3dcd9359" name="d1"/>
         <part crc="710058d8" name="d2"/>
@@ -58,14 +58,14 @@
         <part crc="badf5876" name="j2-u001.bin"/>
         <patch offset="0x049a"> 00 </patch>
   	</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
     	<part>
     	00 00 00 FF 00 FF 00 02 00 02 00 02 70 FF 00 00
     	00 00 E0 17 64 01 00 00
     	</part>
   	</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="100"></nvram>
 

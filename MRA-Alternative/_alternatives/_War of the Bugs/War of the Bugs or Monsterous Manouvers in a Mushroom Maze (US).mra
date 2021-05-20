@@ -53,9 +53,9 @@
 		<part crc="d1220ae9" name="warofbug.1j"></part>
 		<part crc="8688e64b" name="warofbug.clr"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

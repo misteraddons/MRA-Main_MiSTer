@@ -35,7 +35,7 @@
 		<dip bits="22" ids="Hard,Normal" name="Difficulty"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="3086b6e6c764df06e76ae267824a8210" zip="/hbmame/puckman.zip">
 		<part crc="b53c5650" name="caterpil/caterpil.6e"></part>
 		<part crc="53845efb" name="caterpil/caterpil.6f"></part>
@@ -54,9 +54,9 @@
 		<part crc="77245b66" name="82s126.3m"></part>
 		<part crc="2fc650bd" name="82s123.7f"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="e03dfeb3cc03d0b85030f69a70351e3f" zip="asteroid.zip|spcrocks.zip">
 		<part crc="0cc75459" name="1.bin"></part>
 		<part crc="096ed35c" name="2.bin"></part>
@@ -37,9 +37,9 @@
 		<part crc="148ef465" name="e.bin"></part>
 		<part crc="97953db8" name="034602-01.c8"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

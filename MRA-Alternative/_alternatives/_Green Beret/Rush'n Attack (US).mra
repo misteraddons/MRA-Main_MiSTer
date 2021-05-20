@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="77c3e9fb3763204f8e118a7442991c6e" zip="gberet.zip|rushatck.zip">
 		<part crc="4d276b52" name="577h03.10c"></part>
 		<part crc="b5802806" name="577h02.8c"></part>
@@ -44,9 +44,9 @@
 		<part crc="2a1a992b" name="577h11.6f"></part>
 		<part crc="c15e7c80" name="577h09.2f"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

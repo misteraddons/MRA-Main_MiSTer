@@ -36,7 +36,7 @@
 		<dip bits="16" ids="Off,On" name="Demo Music"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="294008b88093ae45abbcb22c2c36bdb1" zip="gyruss.zip|venus.zip">
 		<part crc="d030abb1" name="r1"></part>
 		<part crc="dbf65d4d" name="r2"></part>
@@ -54,9 +54,9 @@
 		<part crc="de823a81" name="gyrussk.pr2"></part>
 		<part crc="98782db3" name="gyrussk.pr3"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

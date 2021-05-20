@@ -36,7 +36,7 @@
 		<dip bits="23" ids="Alternative,normal" name="Ghost Names"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="adc97acb1e98b20fa6e6753e6411e0cb" zip="puckman.zip">
 		<part crc="f36e88ab" name="pm1_prg1.6e"></part>
 		<part crc="618bd9b3" name="pm1_prg2.6k"></part>
@@ -69,9 +69,9 @@
 		<part crc="77245b66" name="pm1-2.3m"></part>
 		<part crc="2fc650bd" name="pm1-1.7f"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

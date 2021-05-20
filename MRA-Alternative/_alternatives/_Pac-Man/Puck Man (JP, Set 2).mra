@@ -35,7 +35,7 @@
 		<dip bits="22" ids="Hard,Normal" name="Difficulty"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="9b62240b14716f60a64b38bbd515cbe6" zip="puckman.zip|puckmod.zip">
 		<part crc="fee263b3" name="namcopac.6e"></part>
 		<part crc="39d1fc83" name="namcopac.6f"></part>
@@ -54,9 +54,9 @@
 		<part crc="77245b66" name="82s126.3m"></part>
 		<part crc="2fc650bd" name="82s123.7f"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

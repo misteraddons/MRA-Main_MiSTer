@@ -65,7 +65,7 @@
 a0 80 20 00 80 a0 88 a8 28 20 a8 a0 00 08 20 28
 		</part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 		00 00 00 00 00 FF 00 02 00 02 00 01 00 FF 00 00
@@ -74,7 +74,7 @@ a0 80 20 00 80 a0 88 a8 28 20 a8 a0 00 08 20 28
 		00 00 C0 0C 00 01 10 10
 		</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="53"></nvram>
 

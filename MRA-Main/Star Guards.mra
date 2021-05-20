@@ -50,9 +50,9 @@
 		<part crc="d98d14ae" name="snd1.u17" repeat="2"></part>
 		<part crc="7755a493" name="snd0.u7" repeat="2"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="2048"></nvram>
 

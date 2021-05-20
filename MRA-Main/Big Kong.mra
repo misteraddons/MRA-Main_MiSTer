@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="50f7e8b81dd675d2c260151bc6764059" type="merged|nonmerged|split" zip="ckong.zip|bigkong.zip|ckongo.zip">
 		<!-- maincpu -->
 		<part crc="4c9102f1" name="dk01f7_2532.d5"></part>
@@ -57,9 +57,9 @@
 		<part crc="26aada9e" name="prom.u6"></part>
 		<part crc="676b3166" name="prom.t6"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

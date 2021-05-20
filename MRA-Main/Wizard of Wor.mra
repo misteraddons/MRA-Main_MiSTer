@@ -54,9 +54,9 @@
 		<part crc="35797f82" name="wow.x6"></part>
 		<part crc="ce404305" name="wow.x7"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

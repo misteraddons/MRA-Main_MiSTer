@@ -56,9 +56,9 @@
 		<part crc="06eab7ce" name="mmi6331.3p"></part>
 		<part crc="86c1e7db" name="mmi6331.3r"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

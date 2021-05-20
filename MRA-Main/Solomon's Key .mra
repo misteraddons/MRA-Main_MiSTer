@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="75ac218ad31ae027184c2d0185ea969f" zip="solomon.zip">
 		<part crc="80fa2be3" name="2.5lm"></part>
 		<part crc="236106b4" name="3.6lm"></part>
@@ -44,9 +44,9 @@
 		<part crc="1bf5c482" name="7.3h"></part>
 		<part crc="0a6cdefc" length="4096" name="8.3jk" offset="0"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

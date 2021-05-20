@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="e2a2769f0e40037a1804351515a3baf4" zip="phoenix.zip|phoenixj.zip">
 		<part crc="5b8c55a8" name="pn01.45"></part>
 		<part crc="dbc942fa" name="pn02.46"></part>
@@ -44,9 +44,9 @@
 		<part crc="53413e8f" name="pn09.39"></part>
 		<part crc="0be2ba91" name="pn10.40"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

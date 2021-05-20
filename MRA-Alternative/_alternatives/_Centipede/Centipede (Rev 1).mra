@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="e73ea38fe2ea6e702fcc974d1a529750" zip="centiped.zip|centiped1.zip">
 		<part crc="674ab844" name="136001-107.d1"></part>
 		<part crc="47ceddc9" name="136001-108.e1"></part>
@@ -39,9 +39,9 @@
 		<part crc="b1397029" name="136001-112.hj7"></part>
 		<part crc="4cd24c85" name="136001-113.p4"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

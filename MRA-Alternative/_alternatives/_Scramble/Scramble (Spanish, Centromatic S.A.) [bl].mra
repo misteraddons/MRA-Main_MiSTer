@@ -61,9 +61,9 @@
 		<part crc="4708845b" name="9.5f" repeat="4"></part>
 		<part crc="4e3caeab" name="prom7051.6e"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

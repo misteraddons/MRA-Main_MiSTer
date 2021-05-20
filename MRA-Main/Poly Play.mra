@@ -70,9 +70,9 @@
 		<part crc="CA2F963F" name="1_-_8800.25"></part>
 		<part crc="0C7DEC2D" name="1_-_8c00.21"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

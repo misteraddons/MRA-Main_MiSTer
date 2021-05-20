@@ -36,7 +36,7 @@
 		<dip bits="18" ids="2,3" name="Lives"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="8a3d52060204b2ce3947a68007aee204" zip="galaxian.zip|astrians.zip">
 		<part crc="21eba3d0" name="astrians.7h"></part>
 		<part crc="f3a436cd" name="astrians.7j"></part>
@@ -52,9 +52,9 @@
 		<part crc="c30fcc46" name="astrians.1k"></part>
 		<part crc="6a0c7d87" name="prom.6l"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

@@ -74,7 +74,7 @@ a0 20 80 00 a0 20 80 00 08 88 00 80 28 08 a8 88
 		00 00 C9 3F 00 3F 01 00
 		</part>
 	</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="63"></nvram>
 

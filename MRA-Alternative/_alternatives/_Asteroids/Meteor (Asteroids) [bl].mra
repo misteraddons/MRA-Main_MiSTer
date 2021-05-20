@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="845cda7f82c10d89970ccda8013754cd" zip="asteroid.zip|meteorho.zip">
 		<part crc="7420421b" name="g.bin"></part>
 		<part crc="a6aa56bc" name="h.bin"></part>
@@ -41,9 +41,9 @@
 		<part crc="d62b2887" name="b.bin"></part>
 		<part crc="9e237193" name="prom.bin"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

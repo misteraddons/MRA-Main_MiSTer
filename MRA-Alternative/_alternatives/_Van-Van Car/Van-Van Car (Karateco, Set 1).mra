@@ -58,9 +58,9 @@
 		<part crc="4b803d9f" name="6301-1.37"></part>
 		<part crc="ce1d9503" name="6331-1.6"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

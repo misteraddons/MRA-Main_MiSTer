@@ -56,13 +56,13 @@
 		<part crc="4ac78df4" name="136010-309.r7"></part>
 		<part crc="5903af03" name="136002-125.n4"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 				 00 00 04 1E 30 50 05 00 
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="48"></nvram>
 

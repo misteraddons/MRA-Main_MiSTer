@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="ac7e5f05170fd2a6c661f8c87c83370a" zip="asteroid.zip|asterockv.zip">
 		<part crc="cdf720c6" name="10505.2"></part>
 		<part crc="ee58bdf0" name="10505.3"></part>
@@ -41,9 +41,9 @@
 		<part crc="231ce201" name="10505.1"></part>
 		<part crc="97953db8" name="034602-01.c8"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

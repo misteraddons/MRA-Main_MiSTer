@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="a489b3b318d3e53b4d837777cc9afeed" type="merged|nonmerged|split" zip="ckongpt2.zip">
 		<!-- maincpu -->
 		<part crc="b27df032" name="7.5d"></part>
@@ -57,9 +57,9 @@
 		<part crc="26aada9e" name="prom.u6"></part>
 		<part crc="676b3166" name="prom.t6"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

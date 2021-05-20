@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="3a76d639409e82ea0b4c73943f9ed8be" zip="/hbmame/asteroid.zip">
 		<part crc="0cc75459" name="starslayer/035145-02.ef2"></part>
 		<part crc="096ed35c" name="starslayer/035144-02.h2"></part>
@@ -37,9 +37,9 @@
 		<part crc="edf610a2" name="starslayer/035127-02.ss"></part>
 		<part crc="97953db8" name="034602-01.c8"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

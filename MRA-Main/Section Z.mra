@@ -81,9 +81,9 @@
 		<part crc="00b3d244" map="10" name="1h_sz10.bin"></part>
 		</interleave>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

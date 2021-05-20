@@ -99,9 +99,9 @@
 		<part crc="eef0a003" name="136059-1160.16s"/>
 		<part crc="f99b631a" name="136059-1198.6p"/>
 	</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

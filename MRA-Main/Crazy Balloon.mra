@@ -34,7 +34,7 @@
 		<dip bits="5,6,7" ids="4c/1cr,3c/1cr,2c/1cr,1c/1cr,1c/2cr,1c/3cr,1c/4cr,Disable" name="Coinage"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="none" zip="crbaloon.zip">
 		<part crc="9d4eef0b" name="cl01.bin"></part>
 		<part crc="10f7a6f7" name="cl02.bin"></part>
@@ -47,9 +47,9 @@
 		<part crc="2c1fbea8" name="cl07.bin"></part>
 		<part crc="ba898659" name="cl08.bin"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

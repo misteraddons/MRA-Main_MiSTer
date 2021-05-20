@@ -30,7 +30,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="aeb94b4e4186c66198e5d43c9d694aea" zip="rallyx.zip|rallyxm.zip">
 		<part crc="5882700d" name="1b"></part>
 		<part crc="786585ec" name="1e"></part>
@@ -1068,9 +1068,9 @@ a5acb1b1aba19a938c878788857f7670
 		<part crc="834d4fda" name="rx1-7.8p"></part>
 		<part crc="c7865434" name="rx1-1.11n"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

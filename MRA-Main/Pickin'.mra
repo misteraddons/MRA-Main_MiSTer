@@ -54,9 +54,9 @@
 		<part crc="fac81668" name="6331-1.3p"></part>
 		<part crc="14ee1603" name="6331-1.3r"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

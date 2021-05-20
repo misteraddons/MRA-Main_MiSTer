@@ -14407,7 +14407,7 @@ C8D0F000F7E8FF003A6F690000010100
 				 00 00 40 A8 03 00 00 00
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="18"></nvram>
 

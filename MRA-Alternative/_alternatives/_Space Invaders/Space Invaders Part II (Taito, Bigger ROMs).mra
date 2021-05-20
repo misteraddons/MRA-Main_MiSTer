@@ -50,14 +50,14 @@
 		<part crc="a732810b" name="pv06.1"></part>
 		<part crc="2c5b91cb" name="pv07.2"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 			00 00 20 F4 00 02 00 05
 			00 00 23 40 00 0A 1B 1B
 		</part>
 	</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="5" size="12"></nvram>
 

@@ -39,7 +39,7 @@
     	<dip bits="16" name="Flip" ids="Off,On" />
   	</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" zip="mrdo.zip" md5="none">
         <part crc="03dcfba2" name="a4-01.bin"/>
         <part crc="0ecdd39c" name="c4-02.bin"/>
@@ -64,7 +64,7 @@
     	00 00 E0 17 64 01 00 00
     	</part>
   	</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="100"></nvram>
 

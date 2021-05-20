@@ -3191,9 +3191,9 @@ e1 e1 0f e1 e1 e1 0f 01 87 5a 96 4b 86 0e 00 00
 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 
 	</part>
 	</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

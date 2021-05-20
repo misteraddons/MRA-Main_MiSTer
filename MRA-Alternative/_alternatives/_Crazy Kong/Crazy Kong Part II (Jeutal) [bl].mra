@@ -30,7 +30,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="f7c07c3b9a3dfef38a7f92bbf173e3a1" zip="ckongpt2.zip|ckongpt2jeu.zip">
 		<part crc="b27df032" name="7.5d"></part>
 		<part crc="5dc1aaba" name="8.5e"></part>
@@ -59,9 +59,9 @@
 		<part crc="5f0bcdfb" name="14.5s"></part>
 		<part crc="9003ffbd" name="13.5p"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

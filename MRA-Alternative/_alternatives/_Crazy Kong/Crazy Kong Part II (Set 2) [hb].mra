@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" zip="/hbmame/ckong.zip" md5="3a9658e48be91f16fb39998a7ba3eef0">
 		<part crc="9b5e7592" name="ckonga3/ckonga4.07"/>
 		<part crc="5dc1aaba" name="ckonga2/f05-08.bin"/>
@@ -58,9 +58,9 @@
 		<part crc="5f0bcdfb" name="falcon13"/>
 		<part crc="9003ffbd" name="falcon12"/>
 	</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

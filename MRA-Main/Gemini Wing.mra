@@ -66,9 +66,9 @@
 		<!-- pcm -->
 		<part crc="d78afa05" name="gw01-6a.rom"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

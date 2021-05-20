@@ -43,7 +43,7 @@
 		<part crc="7f1d1f44" name="m645a-4m26.a1"></part>
 		<part repeat="2048">FF</part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 				 00 00 26 F0 00 02 0E 0E
@@ -51,7 +51,7 @@
 				 00 00 20 2B 00 02 00 00
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="5" size="3"></nvram>
 

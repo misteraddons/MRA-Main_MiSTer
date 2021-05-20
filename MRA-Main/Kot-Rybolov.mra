@@ -45,9 +45,9 @@
 		<part crc="A124CFF4" name="848.3"></part>
 		<part crc="5D27FDA6" name="849.4"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

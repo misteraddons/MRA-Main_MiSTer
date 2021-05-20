@@ -49,9 +49,9 @@
 		<part crc="55c3b759" name="turbskwk.u5"></part>
 		<part crc="31a2da2e" name="turbskwk.u4"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="2048"></nvram>
 

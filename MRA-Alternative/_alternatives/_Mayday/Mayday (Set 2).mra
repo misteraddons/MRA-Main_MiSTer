@@ -115,9 +115,9 @@ abaaa9a8a7a6a5a4a3a2a1a09f9e9d9c
 		<part crc="fefd5b48" name="ic28-8.bin"></part>
 		<part crc="fefd5b48" name="ic28-8.bin"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

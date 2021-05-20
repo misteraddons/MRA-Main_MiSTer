@@ -37,7 +37,7 @@
 		<dip bits="15" ids="Upright,Table" name="Cabinet"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="19ab0732db7cbd603a83cd207efc226c" zip="dkong3.zip">
 		<part crc="38d5f38e" name="dk3c.7b"></part>
 		<part crc="c9134379" name="dk3c.7c"></part>
@@ -56,9 +56,9 @@
 		<part crc="50e33434" name="dkc1-v.2n"></part>
 		<part crc="d3e2eaf8" name="dkc1-v.5e"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

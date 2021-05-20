@@ -46,11 +46,11 @@
 		<part crc="bd8576f1" name="n-1.7d"></part>
 		<part crc="48f1ade5" name="n-2.6e"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="5" size="38"></nvram>
 

@@ -140,7 +140,7 @@
 		<part repeat="0x300">FF</part>
 		<part crc="7a601c3d" name="18s030-gfx-8t.bin"/>
 	</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 		00 00 FF FF 00 3F 00 02
@@ -149,7 +149,7 @@
 		00 00 E9 80 00 03 52 00
 		</part>
 	</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="123"></nvram>
 

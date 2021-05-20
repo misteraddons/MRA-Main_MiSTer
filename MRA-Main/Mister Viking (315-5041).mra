@@ -68,11 +68,11 @@ a0 80 20 00 28 08 a8 88 a0 80 20 00 88 08 80 00
 a0 80 a8 88 28 08 a8 88 a0 80 20 00 a0 80 a8 88 
 		</part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="45"></nvram>
 

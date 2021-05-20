@@ -51,13 +51,13 @@
 		<part crc="03d11020" name="bh8"></part>
 		<part crc="c3ac9467" name="6l.bpr"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 			 00 00 41 40 09 58 00 00
 			 </part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="9"></nvram>
 

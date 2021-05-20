@@ -122,9 +122,9 @@
 		<part crc="8bfebf87" name="speech.ic6"/>
 		<part crc="db351db6" name="speech.ic7"/>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="1024"></nvram>
 

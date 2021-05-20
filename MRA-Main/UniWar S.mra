@@ -54,11 +54,11 @@
 		<part crc="dcc2b33b" name="k01_2.bin"></part>
 		<part crc="25c79518" name="uniwars.clr"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>00 00 40 a8 03 00 00 00</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="3"></nvram>
 

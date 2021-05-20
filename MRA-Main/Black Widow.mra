@@ -57,14 +57,14 @@
 		<part crc="0dd52987" name="136017-110.r7"></part>
 		<part crc="5903af03" name="136002-125.n4"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 				 00 00 03 02 24 20 DB 00 
 				 00 00 03 26 76 1B 11 00 
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="154"></nvram>
 

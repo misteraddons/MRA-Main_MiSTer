@@ -32,7 +32,7 @@
 		<dip bits="8" ids="Off,On" name="Service"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="06a6cf5057e82ccc9d6aedf0742369e0" type="merged|nonmerged" zip="kick.zip|kickman.zip">
 		<part crc="d8cd9f0f" name="1200-a-ur.b3"></part>
 		<part crc="4dee27bb" name="1300-b-ur.b4"></part>
@@ -53,9 +53,9 @@
 		<part crc="b4d120f3" name="1800g-v2.g4"></part>
 		<part crc="c3ba4893" name="1900h-v2.g5"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="2048"></nvram>
 

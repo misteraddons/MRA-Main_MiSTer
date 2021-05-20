@@ -30,7 +30,7 @@
 	<switches>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="752a531ae38ffcf3be5c568d006bdf67" zip="defender.zip">
 		<part crc="c3e52d7e" name="defend.1"></part>
 		<part crc="9a72348b" name="defend.4"></part>
@@ -68,9 +68,9 @@
 		<part crc="fefd5b48" name="defend.snd"></part>
 		<part crc="fefd5b48" name="defend.snd"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="256"></nvram>
 

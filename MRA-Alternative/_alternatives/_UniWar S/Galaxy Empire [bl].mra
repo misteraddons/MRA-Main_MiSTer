@@ -54,9 +54,9 @@
 		<part crc="dcc2b33b" name="11"></part>
 		<part crc="6a0c7d87" name="l06_prom.bin"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

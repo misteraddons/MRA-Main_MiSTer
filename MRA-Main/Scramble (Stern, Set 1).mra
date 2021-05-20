@@ -61,14 +61,14 @@
 		<part crc="5f30311a" name="5f" repeat="4"></part>
 		<part crc="4e3caeab" name="c01s.6e"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 				 00 00 42 00 1E 00 01 00
 				 00 00 40 A8 03 00 01 00
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="33"></nvram>
 

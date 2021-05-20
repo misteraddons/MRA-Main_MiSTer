@@ -2117,7 +2117,7 @@ C7 A6 82 4A D0 30 16 FA C7 A6 82 4A D0 30 16 FA AE 7B D1 29 8E 0D 73 00 AE 7B D1
 				00 00 C0 62 00 03 00 01
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="3"></nvram>
 

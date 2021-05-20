@@ -53,9 +53,9 @@
 		<part crc="77245b66" name="n82s129n.6l"></part>
 		<part crc="ff344446" name="n82s123n.10n"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

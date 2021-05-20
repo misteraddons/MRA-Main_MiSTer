@@ -56,9 +56,9 @@
 		<part crc="4a8e76b8" name="dmanfg2.bin"></part>
 		<part crc="1f39257e" name="dmanfg3.bin"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="2048"></nvram>
 

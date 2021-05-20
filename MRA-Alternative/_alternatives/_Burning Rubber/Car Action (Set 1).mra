@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="cb87ce6dc5ee0765e2b9980768c064c3" zip="brubber.zip|caractn.zip">
 		<part crc="b5279c70" name="c7.12c"></part>
 		<part crc="1d6957c4" name="c6.12d"></part>
@@ -40,9 +40,9 @@
 		<part crc="a9ffacb4" name="c4.10f"></part>
 		<part crc="8c02f662" name="c5.6c"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

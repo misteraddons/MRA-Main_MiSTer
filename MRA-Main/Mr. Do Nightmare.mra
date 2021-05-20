@@ -1601,9 +1601,9 @@ e0c0c0e0e07010000406070505090800
 		00f6c076001ec080001e80c0007607c6
 			</part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

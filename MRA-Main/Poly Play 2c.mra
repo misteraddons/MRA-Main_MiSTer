@@ -41,9 +41,9 @@
 		<part crc="D5EF6ED8" name="2_5.bin"></part>
 		<part crc="4F028AF9" name="1_1.bin"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

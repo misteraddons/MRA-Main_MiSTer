@@ -181,7 +181,7 @@
 07070707070707070707070707070707
 		</part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3">
 		<!-- 1-bottom.wav -->
 		<!-- 2-middle.wav -->

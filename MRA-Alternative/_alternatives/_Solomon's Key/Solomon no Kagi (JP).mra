@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="2e540133603058d3949c9a3403e942c6" zip="solomon.zip|solomonj.zip">
 		<part crc="80fa2be3" name="slmn_02.bin"></part>
 		<part crc="236106b4" name="slmn_03.bin"></part>
@@ -44,9 +44,9 @@
 		<part crc="d52d7e38" name="slmn_07.bin"></part>
 		<part crc="b924d162" name="slmn_08.bin"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

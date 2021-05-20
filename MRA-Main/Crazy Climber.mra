@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="b6b06723da0f0e6e183723285b0bf5be" type="merged|nonmerged" zip="cclimber.zip">
 		<part crc="217ec4ff" name="cc11"></part>
 		<part crc="b3c26cef" name="cc10"></part>
@@ -45,9 +45,9 @@
 		<part crc="e0042f75" name="cc13"></part>
 		<part crc="5da13aaa" name="cc12"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

@@ -53,9 +53,9 @@
 		<part crc="a8a2ddd2" name="prom.3p"></part>
 		<part crc="edf88f34" name="prom.3r"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

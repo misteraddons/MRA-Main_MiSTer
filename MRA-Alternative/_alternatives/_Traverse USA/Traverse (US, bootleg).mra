@@ -30,7 +30,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" zip="travrusa.zip|travrusab.zip" md5="a41877e6ccd3259a7d4256279b637f9c">
 		<part crc="704ce6e4" name="at4.m3"/>
 		<part crc="686cb0e6" name="at5.l3"/>
@@ -48,9 +48,9 @@
 		<part crc="76062638" name="tbp24s10.3"/>
 		<part crc="a1130007" name="tbp18s.2"/>
 	</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

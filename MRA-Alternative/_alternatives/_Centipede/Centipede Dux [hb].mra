@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="88436c47501e254ab1e6703ac9743795" zip="centiped.zip|centipdd.zip">
 		<part crc="5ab0d9de" name="136001-307.d1"></part>
 		<part crc="4c07fd3e" name="136001-308.e1"></part>
@@ -39,9 +39,9 @@
 		<part crc="f980c777" name="dux-212.hj7"></part>
 		<part crc="6fa3093a" name="136001-213.p4"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

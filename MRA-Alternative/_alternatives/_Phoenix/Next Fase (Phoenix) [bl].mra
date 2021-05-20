@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="cd6737ba7acdfe20da59c22eb83ef218" zip="phoenix.zip|nextfase.zip">
 		<part crc="b31ce820" name="nf01.bin"></part>
 		<part crc="891d21e1" name="nf02.bin"></part>
@@ -44,9 +44,9 @@
 		<part crc="bacbfa88" name="nf09.bin"></part>
 		<part crc="3143a9ee" name="nf10.bin"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

@@ -58,9 +58,9 @@
 		<part crc="ac1558c1" name="epr-5790"></part>
 		<part crc="fa66cab5" name="epr-5789"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

@@ -52,9 +52,9 @@
 		<part crc="51a629e1" name="strategy.6e"></part>
 		<part crc="d95c0318" name="strategy.10k"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

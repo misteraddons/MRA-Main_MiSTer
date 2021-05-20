@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="efd979823f8c05dbd28b317f3e30fbb4" zip="kick.zip|kickc.zip">
 		<part crc="22fa42ed" name="1200-a.b3"></part>
 		<part crc="afaca819" name="1300-b.b4"></part>
@@ -50,9 +50,9 @@
 		<part crc="acdae4f6" name="1000-g.g4"></part>
 		<part crc="dbb18c96" name="1100-h.g5"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

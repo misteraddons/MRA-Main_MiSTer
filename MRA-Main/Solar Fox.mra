@@ -58,9 +58,9 @@
 		<part crc="ba019a60" name="sfcpu.4g"></part>
 		<part crc="7ff0364e" name="sfcpu.5g"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="2048"></nvram>
 

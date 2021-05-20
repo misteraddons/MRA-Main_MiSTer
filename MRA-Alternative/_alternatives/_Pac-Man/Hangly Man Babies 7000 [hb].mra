@@ -35,7 +35,7 @@
 		<dip bits="22" ids="Hard,Normal" name="Difficulty"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="479a2ce3d98fba165b6a9505f488c932" zip="/hbmame/puckman.zip">
 		<part crc="5fe8610a" name="fasthang/hangly.6e"></part>
 		<part crc="73726586" name="hanglyad/hangly.6f"></part>
@@ -54,9 +54,9 @@
 		<part crc="77245b66" name="82s126.3m"></part>
 		<part crc="063dd53a" name="hmba7000/pacplus.7f"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

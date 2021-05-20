@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="5de9f3130b7686c85b60bac3310ffd05" zip="xevious.zip|battles2.zip|namco50.zip|namco51.zip|namco54.zip">
 		<part crc="475d848a" name="bg1.h7"></part>
 		<part crc="c66f2a87" name="bg2.h6"></part>
@@ -52,9 +52,9 @@
 		<part crc="c2f57ef8" name="51xx.bin" zip="namco51.zip"></part>
 		<part crc="ee7357e0" name="54xx.bin" zip="namco54.zip"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

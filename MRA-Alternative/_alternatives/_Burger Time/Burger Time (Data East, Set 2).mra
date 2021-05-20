@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" zip="btime.zip|btime2.zip" type="merged|nonmerged|split" md5="none">
 		<!-- audio cpu [$e000:$efff] -->
 		<part crc="f55e5211" name="ab14.12h"/>
@@ -59,7 +59,7 @@
 		<!-- background tilemaps -->
 		<part crc="d26bc1f3" name="ab03.6b"/>
 	</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 		00 0F FF FF 00 FF 00 04 00 04 00 01 00 FF 00 00

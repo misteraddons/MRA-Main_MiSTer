@@ -30,7 +30,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="f4824c94d5ce8101be4964e117eadab9" zip="timeplt.zip|timepltc.zip">
 		<part crc="83ec72c2" name="cd1y"></part>
 		<part crc="0dcf5287" name="cd2y"></part>
@@ -40,9 +40,9 @@
 		<part crc="e8ca87b9" name="tm5"></part>
 		<part crc="d66da813" name="tm7"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

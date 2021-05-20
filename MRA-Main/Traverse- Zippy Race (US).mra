@@ -63,9 +63,9 @@
 		<part crc="76062638" name="tbp24s10.3"></part>
 		<part crc="a1130007" name="tbp18s.2"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

@@ -53,9 +53,9 @@
 		<part crc="7130e9eb" name="g12.bin"></part>
 		<part crc="57a45057" name="colour.bin"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

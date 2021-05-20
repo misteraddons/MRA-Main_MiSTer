@@ -44,9 +44,9 @@
 		<part crc="8F379D95" name="08.5g"></part>
 		<part crc="397F41F8" name="10.7g"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

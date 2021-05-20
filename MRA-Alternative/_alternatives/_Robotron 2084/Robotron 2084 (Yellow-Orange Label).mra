@@ -119,9 +119,9 @@
 		<part crc="e6631c23" name="decoder.4"></part>
 		<part crc="83faf25e" name="decoder.6"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="46e488d5b504ba4830186ac03421a51e" zip="gaplus.zip|galaga3a.zip">
 		<part crc="10d7f64c" name="gp3-4c.8d"></part>
 		<part crc="962411e8" name="gp3-3c.8c"></part>
@@ -2101,9 +2101,9 @@ a29f9e9c9b9996959392908f8f8f9090
 		<part crc="8dabc20b" name="gp2-2.2n"></part>
 		<part crc="2d9fbdd8" name="gp2-4.3f"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

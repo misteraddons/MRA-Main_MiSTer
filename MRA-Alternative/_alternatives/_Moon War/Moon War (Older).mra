@@ -53,9 +53,9 @@
 		<part crc="c5fa1aa0" name="moon_war_ii_ra20_5f.5f" repeat="4"></part>
 		<part crc="99614c6c" name="moonwar_ii_color_6ea1.6e"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

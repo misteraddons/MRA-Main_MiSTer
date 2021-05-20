@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="b38340a70f5bc48a41731e85aecee15e" type="merged|nonmerged|split" zip="ckong.zip|ckongo.zip|bigkong.zip">
 		<!-- maincpu -->
 		<part crc="8bfb4623" name="o55a-1"></part>
@@ -60,9 +60,9 @@
 		<part crc="26aada9e" name="prom.u6"></part>
 		<part crc="676b3166" name="prom.t6"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

@@ -175,7 +175,7 @@
 04040404040404040404040404040404
 		</part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3">
 		<!-- 1-up.wav -->
 		<!-- 2-down.wav -->

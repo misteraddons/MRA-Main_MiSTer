@@ -34,7 +34,7 @@
 		<dip bits="21" ids="On,Off" name="Demo Sounds"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="83913a5076b208589e6c41fbaed16058" zip="suprglob.zip|sprglbpg.zip">
 		<part crc="a2df2073" name="ic8.1"></part>
 		<part crc="3d2c22d9" name="ic7.2"></part>
@@ -51,9 +51,9 @@
 		<part crc="77245b66" name="ic70.prm"></part>
 		<part crc="1f617527" name="ic78.prm"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

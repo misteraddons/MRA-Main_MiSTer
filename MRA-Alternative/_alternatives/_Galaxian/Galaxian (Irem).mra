@@ -37,7 +37,7 @@
 		<dip bits="18" ids="3,5" name="Lives"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="9f2babe9157dd0a54519b172fc70b376" zip="galaxian.zip|galaxiani.zip">
 		<part crc="e8f3aa67" name="cp-1.8g"></part>
 		<part crc="f58283e3" name="cp-2.8f"></part>
@@ -53,9 +53,9 @@
 		<part crc="6fb54cb1" name="cp-6.1j"></part>
 		<part crc="c3ac9467" name="6l.bpr"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

@@ -34,7 +34,7 @@
 		<dip bits="7" ids="Cocktail,Upright" name="Cabinet"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="ebfc471d12606afd1408d62c7f4c90c9" type="merged|nonmerged" zip="dkongjr.zip">
 		<part crc="dea28158" name="djr1-c_5b_f-2.5b"></part>
 		<part crc="6fb5faf6" name="djr1-c_5c_f-2.5c"></part>
@@ -6202,7 +6202,7 @@ ff ff 01 00 fe ff 02 00 fe ff 03 00 fe ff 00 00
 01 00 fe ff 03 00 fd ff 04 00 fb ff 05 00 fc ff 
 		</part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<rom index="3" md5="none">
 		<part>
@@ -6219,7 +6219,7 @@ ff ff 01 00 fe ff 02 00 fe ff 03 00 fe ff 00 00
 		</part>
 	</rom>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="168"></nvram>
 

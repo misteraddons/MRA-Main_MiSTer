@@ -60,11 +60,11 @@
 		<part crc="0eca8d6b" name="trs2v3ec"></part>
 		<part repeat="40960">00</part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="171"></nvram>
 

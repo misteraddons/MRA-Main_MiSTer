@@ -72,8 +72,8 @@
 	<rom address="0x30000000" index="2" md5="none" zip="/sound/journey.zip">
 		<part ignore_crc="" name="sepways.wav"></part>
 		</rom>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="2048"></nvram>
 

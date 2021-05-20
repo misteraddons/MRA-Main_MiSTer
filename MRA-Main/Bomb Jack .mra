@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="32a4212e5f5754b756eaf690b9292c02" zip="bombjack.zip">
 		<part crc="8407917d" name="01_h03t.bin"></part>
 		<part crc="398d4a02" name="02_p04t.bin"></part>
@@ -52,11 +52,11 @@
 		<part crc="013f58f2" name="15_l07b.bin"></part>
 		<part crc="94694097" name="16_m07b.bin"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="166"></nvram>
 

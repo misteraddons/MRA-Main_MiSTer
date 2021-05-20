@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="d69308603d7ff982313b58ee45add925" zip="pleiads.zip|pleiadss.zip">
 		<part crc="e2528599" name="pl45.bin"></part>
 		<part crc="b254217c" name="pl46.bin"></part>
@@ -46,9 +46,9 @@
 		<part crc="79350b25" name="ic40.prm"></part>
 		<part crc="e176b768" name="ic41.prm"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

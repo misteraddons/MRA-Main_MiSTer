@@ -36,7 +36,7 @@
 		<dip bits="18" ids="3,5" name="Lives"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="bd20fdaf9a66c4de1145dd83301477e3" zip="/hbmame/galnamco.zip">
 		<part crc="a0059ddd" name="andromd/and01"></part>
 		<part crc="da6421b8" name="andromd/and02"></part>
@@ -60,9 +60,9 @@
 		<part crc="7e3f56a2" name="1k.bin"></part>
 		<part crc="c3ac9467" name="6l.bpr"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

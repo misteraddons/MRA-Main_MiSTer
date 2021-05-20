@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="fd089e48e38ebe92f79cd45bd777bdc9" zip="phoenix.zip">
 		<part crc="9f68086b" name="ic45"></part>
 		<part crc="273a4a82" name="ic46"></part>
@@ -44,11 +44,11 @@
 		<part crc="53413e8f" name="b1-ic39.3b"></part>
 		<part crc="0be2ba91" name="b2-ic40.4b"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="27"></nvram>
 

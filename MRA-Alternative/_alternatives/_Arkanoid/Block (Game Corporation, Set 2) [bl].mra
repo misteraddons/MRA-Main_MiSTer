@@ -30,7 +30,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="357bfac0675d946976a57e862efbceb8" zip="arkanoid.zip|arkbloc2.zip">
 		<part crc="5be667e1" name="block01.bin"></part>
 		<part crc="4f883ef1" name="block02.bin"></part>
@@ -41,9 +41,9 @@
 		<part crc="abb002fb" name="a75-08.bpr"></part>
 		<part crc="a7c6c277" name="a75-09.bpr"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

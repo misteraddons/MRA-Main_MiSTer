@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="62e2775c0f4b58a8539ca091d662fce5" zip="phoenix.zip|phoenixdal.zip">
 		<part crc="5b8c55a8" name="dal.a1"></part>
 		<part crc="dbc942fa" name="dal.a2"></part>
@@ -44,9 +44,9 @@
 		<part crc="bb0525ed" name="dal.b3"></part>
 		<part crc="4178aa4f" name="dal.b4"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

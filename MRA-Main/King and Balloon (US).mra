@@ -48,7 +48,7 @@
 		<part crc="9cd550e7" name="chg1.1h"></part>
 		<part crc="15dd5b16" name="kb2-1"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 			  00 00 83 05 03 00 00 00
@@ -56,7 +56,7 @@
 		     00 00 83 02 01 01 01 00
 			  </part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="7"></nvram>
 

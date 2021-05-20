@@ -43,7 +43,7 @@
 		<part repeat="4096">00</part>
 		<part repeat="2048">FF</part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3">
 		<!-- 0-shiphit.wav -->
 		<!-- 1-torpedo.wav -->

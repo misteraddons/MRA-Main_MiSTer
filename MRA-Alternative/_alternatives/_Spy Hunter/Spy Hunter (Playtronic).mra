@@ -67,9 +67,9 @@
 		<part crc="7b482d61" name="spy-hunter_cpu_bg3_11-18-83.6a"></part>
 		<part crc="5c74c9f0" name="sh_mb_1.bin"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

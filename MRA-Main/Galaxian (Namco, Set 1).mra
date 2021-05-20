@@ -36,7 +36,7 @@
 		<dip bits="18" ids="2,3" name="Lives"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="434c546b09dbb7559e7fde9354c27d19" zip="galaxian.zip">
 		<part crc="745e2d61" name="galmidw.u"></part>
 		<part crc="9c999a40" name="galmidw.v"></part>
@@ -52,11 +52,11 @@
 		<part crc="7e3f56a2" name="1k.bin"></part>
 		<part crc="c3ac9467" name="6l.bpr"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>00 00 40 a8 03 00 00 00</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="3"></nvram>
 

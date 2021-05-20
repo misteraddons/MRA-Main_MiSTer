@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="c84aa7495fa0af63de7a6c72c1c8b730" zip="snapjack.zip">
 		<part crc="6b30fcda" name="sj1.c4"></part>
 		<part crc="1f1088d1" name="sj2.d4"></part>
@@ -42,9 +42,9 @@
 		<part crc="ff2011c7" name="sj9.f7"></part>
 		<part crc="f097babb" name="sj0.h7"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

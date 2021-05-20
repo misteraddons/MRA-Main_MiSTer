@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="8523bb42173f2fbdb905a7fb03e53c57" zip="/hbmame/puckman.zip">
 		<part crc="a8ae23c5" name="chtpman2/newpuck2.6e"></part>
 		<part crc="720dc3ee" name="fastpop/pacmanf.6f"></part>
@@ -48,9 +48,9 @@
 		<part crc="77245b66" name="82s126.3m"></part>
 		<part crc="2fc650bd" name="82s123.7f"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

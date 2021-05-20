@@ -45,13 +45,13 @@
 		<part crc="f108d00d" name="82s129.2b"></part>
 		<part crc="f108d00d" name="82s129.2b"></part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 				 00 00 40 08 00 03 00 00
 				</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="5" size="3"></nvram>
 

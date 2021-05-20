@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="c7d288bc1514495a741b17001e2400a2" zip="brubber.zip">
 		<part crc="b5279c70" name="brubber.12c"></part>
 		<part crc="b2ce51f5" name="brubber.12d"></part>
@@ -40,9 +40,9 @@
 		<part crc="a9ffacb4" name="bnj10f.bin"></part>
 		<part crc="8c02f662" name="bnj6c.bin"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

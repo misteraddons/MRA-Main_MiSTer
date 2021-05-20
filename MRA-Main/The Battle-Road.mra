@@ -157,14 +157,14 @@
 		<part repeat="0x2e0">FF</part>
 		<part crc="ce746937" name="br-b-5p"/>
 	</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 		00 00 FF FF 00 3F 00 02 00 02 00 01 00 FF 00 00
 		00 00 ED 50 00 B0 00 08
 		</part>
 	</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="176"/>
 

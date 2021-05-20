@@ -34,7 +34,7 @@
 		<dip bits="7" ids="Cocktail,Upright" name="Cabinet"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="2b33a8e64b3ac1d361cd6d06cabc4f7c" zip="dkong.zip">
 		<!-- Main CPU 32k -->
 		<part crc="ba70b88b" name="c_5et_g.bin"></part>
@@ -2633,7 +2633,7 @@ ffffffffffffffffffffffffffffffff
 ffffffffffffffffffffffffffffffff
 		</part>
 		</rom>
-	<rom_2></rom_2>
+	<rom index="2"></rom>
 	<rom index="3" md5="none">
 		<part>
 		00 00 61 00 00 AA 94 76
@@ -2646,7 +2646,7 @@ ffffffffffffffffffffffffffffffff
 		00 00 75 A1 00 01 00 00
 		</part>
 		</rom>
-	<rom_4></rom_4>
+	<rom index="4"></rom>
 
 	<nvram index="4" size="179"></nvram>
 

@@ -29,7 +29,7 @@
 
 	<switches></switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="273678b3c924d6c56072e56fa12944f2" zip="zigzagb.zip">
 		<part crc="8cc08d81" name="zz_d1.7l"></part>
 		<part crc="326d8d45" name="zz_d2.7k"></part>
@@ -38,9 +38,9 @@
 		<part crc="780c162a" name="zz_6.1h"></part>
 		<part crc="f3cdfec5" name="zz_5.1k"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 

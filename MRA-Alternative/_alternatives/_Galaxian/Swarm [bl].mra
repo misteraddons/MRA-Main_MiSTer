@@ -36,7 +36,7 @@
 		<dip bits="18" ids="2,3" name="Lives"></dip>
 		</switches>
 
-	<rom_1></rom_1>
+	<rom index="1"></rom>
 	<rom index="0" md5="ced9aaae89d05145389c75009b3ce075" zip="galaxian.zip|swarm.zip">
 		<part crc="21eba3d0" name="swarm1.bin"></part>
 		<part crc="f3a436cd" name="swarm2.bin"></part>
@@ -52,9 +52,9 @@
 		<part crc="60c4bd31" name="swarmb.bin"></part>
 		<part crc="c3ac9467" name="6l.bpr"></part>
 		</rom>
-	<rom_2></rom_2>
-	<rom_3></rom_3>
-	<rom_4></rom_4>
+	<rom index="2"></rom>
+	<rom index="3"></rom>
+	<rom index="4"></rom>
 
 	<nvram></nvram>
 
