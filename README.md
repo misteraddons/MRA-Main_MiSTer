@@ -3,6 +3,15 @@
 ## Purpose
 The introduction of the MRA format and the creation of the Arcade Organizer script has made discovering and sorting arcade games much easier. I felt there is still room for improvement by standardizing the xml fields and curating a list of genres instead of using MAME's more than 200 game categories.
 
+## Filename Schema
+<name> (2 letter region if applicable, version if applicable) [bl/hb if applicable]
+### Examples:
+```
+Bubbles.mra	 
+Donkey Kong (US, Set 2).mra
+Zig Zag (Dig Dug Conversion, Set 2) [bl].mra
+```
+	
 ## Structure
 This is the proposed MRA template
 ```
@@ -80,4 +89,3 @@ Shooter - Multidirectional | Time Pilot, Vindicators, etc.
 Shooter - Tube | Gyruss, etc.
 Shooter - Vertical | 1942, etc.
 Sports | Tennis, basketball, baseball, football, etc.
-
