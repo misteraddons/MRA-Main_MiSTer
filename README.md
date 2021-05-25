@@ -42,7 +42,7 @@ This is the proposed MRA template
 	<joystick></joystick> (2-way horizontal, 2-way vertical, 4-way, 8-way)
 	<special_controls></special_controls> (spinner, twin stick, trackball, etc).
 	<num_buttons></num_buttons> (0 / 1 / 2 / 3 / 4 / 5 / 6)
-	<num_buttons></num_buttons> (names="Attack, Jump, Start, Coin" default="A,B,Start,R")
+	<buttons></buttons> (names="Attack, Jump, Start, Coin" default="A,B,Start,R")
 
 	<switches></switches> (BIOS settings)
 
