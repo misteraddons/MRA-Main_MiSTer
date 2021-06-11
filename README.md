@@ -4,7 +4,7 @@
 The introduction of the MRA format and the creation of the Arcade Organizer script has made discovering and sorting arcade games much easier. I felt there is still room for improvement by standardizing the xml fields and curating a list of genres instead of using MAME's more than 200 game categories.
 
 ## Filename Schema
-Name (2 letter region, version) [bl/hb].mra
+Name (1 or 2 letter region, version) [bl/hb].mra
 ### Examples:
 ```
 Bubbles.mra	 
@@ -47,8 +47,9 @@ This is the proposed MRA template
 	<switches></switches> (BIOS settings)
 
 	<rom index="1"></rom>
-	<rom index="0"></rom>
-	<rom index="2"></rom>
+	<rom index="0 "md5="" zip=""></rom> (If no md5 is available, enter md5="none". Zip name is required.)
+		<part crc="" name=""></part> (crc is required)
+	<rom index="2"></rom> 
 	<rom index="3"></rom>
 	<rom index="4"></rom>
 
@@ -74,8 +75,9 @@ Gambling | Slots, card games, etc.
 Grid / Maze | Pac-Man style games where movement is restricted along a x-y grid
 Lander | You're in a space ship and you need to touch down.
 Mixed | Three Wonders, etc.
-Platform | Left/right movement with platforms to jump up/down from
-Platform - Climb | Up/down movement with platforms to move left/right on.
+Platform - Climb | Up/down movement with platforms to jump up and down onto (Ninja-Kun, etc.)
+Platform - Fixed | Single screen with platforms to jump up/down from (Solomon's Key, etc.)
+Platform - Scroll| Left/right scrolling platformer (Wonder Boy, etc.)
 Puzzle | Tetris, etc.
 Puzzle - Platform | Bomb Jack, etc.
 Quiz | Zzzzz
