@@ -47,11 +47,11 @@ This is the proposed MRA template
 	<switches></switches> (BIOS settings)
 
 	<rom index="1"></rom>
-	<rom index="0 "md5="" zip=""></rom> (If no md5 is available, enter md5="none". Zip name is required.)
+	<rom index="0" md5="" zip=""></rom> (If no md5 is available, enter md5="none". Zip name is required.)
 		<part crc="" name=""></part> (crc is required)
-	<rom index="2"></rom> 
-	<rom index="3"></rom>
-	<rom index="4"></rom>
+	<rom index="2"></rom> (Same as above, else leave empty)
+	<rom index="3"></rom> (Same as above, else leave empty)
+	<rom index="4"></rom> (Same as above, else leave empty)
 
 	<nvram></nvram>
 
