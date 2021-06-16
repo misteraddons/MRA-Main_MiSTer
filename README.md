@@ -26,7 +26,11 @@ This is the proposed MRA template
 	<series></series> (Larger game series, e.g. DonPachi, Street Fighter, etc.)
 	<year></year> (YYYY format)
 	<manufacturer></manufacturer> (Try to format exactly as existing manufacturers, if they exist, to avoid duplicates)
+	<manufacturer2></manufacturer2> (Optional)
+	<manufacturer3></manufacturer3> (Optional)
 	<category></category> (See list below)
+	<category2></category2> (Optional)
+	<category3></category3> (Optional)
 
 	<setname></setname> (MAME rom name)
 	<parent></parent> (MAME rom parent - may be the same as setname)
