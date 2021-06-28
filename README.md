@@ -76,8 +76,8 @@ Ball and Paddle | Everything from Pong to Arkanoid, Kick, Breakout, etc.
 Beat 'em Up | Fight swarms of baddies moving along the x axis (and sometimes y-axis as well!)
 Fighting | Street Fighter, etc.
 Gambling | Slots, card games, etc.
-Grid / Maze | Pac-Man style games where movement is restricted along a x-y grid
 Lander | You're in a space ship and you need to touch down.
+Maze | Pac-Man style games where movement is restricted along a x-y grid
 Mixed | Three Wonders, etc.
 Platform - Climb | Up/down movement with platforms to jump up and down onto (Ninja-Kun, etc.)
 Platform - Fixed | Single screen with platforms to jump up/down from (Solomon's Key, etc.)
